@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Viatica 1.0 Beta</title>
+  <!-- Google Font Roboto -->
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap" rel="stylesheet">
+  <!-- Configure Tailwind for class-based dark mode -->
+  <script>
+    window.tailwind = { config: { darkMode: 'class' } };
+  </script>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+</head>
+<body class="bg-gray-100 dark:bg-gray-900 h-screen p-4 font-['Roboto']" style="font-family: 'Roboto', sans-serif; font-size: 16px;">
+  <div class="max-w-6xl mx-auto bg-white dark:bg-gray-800 rounded-2xl shadow-xl p-6 transition-colors flex flex-col h-full">
+    <!-- Header -->
+    <div class="flex items-center justify-between mb-4 flex-shrink-0">
+      <div class="flex items-center space-x-2">
+        <img src="/static/viatica.png" alt="Logo" class="w-6 h-6">
+        <h1 class="text-xl font-bold text-gray-900 dark:text-gray-100">Viatica 1.0 Beta</h1>
+      </div>
+      <button id="theme-toggle" class="px-3 py-1 bg-gray-200 dark:bg-gray-700 rounded hover:bg-gray-300 dark:hover:bg-gray-600">Toggle Theme</button>
+    </div>
+    <!-- Toolbar -->
+    <div class="flex space-x-2 mb-4 flex-shrink-0">
+      <button id="analyze" class="btn-blue">Analyze</button>
+      <button id="copy" class="btn-green">Copy</button>
+      <button id="typing" class="btn-indigo">Sim Typing</button>
+      <button id="save" class="btn-yellow">Save As</button>
+      <button id="pdf" class="btn-purple">Export PDF</button>
+      <button id="clear" class="btn-red">Clear</button>
+    </div>
+    <!-- Main Panels -->
+    <div class="flex space-x-4 flex-1 overflow-hidden">
+      <div class="flex-1 flex flex-col">
+        <label for="input" class="mb-2 text-gray-700 dark:text-gray-300">Input Text:</label>
+        <textarea id="input" class="flex-1 p-2 border rounded resize bg-white dark:bg-gray-700 text-gray-900 dark:text-gray-100" style="font-family: 'Roboto', sans-serif; font-size: 14px;"></textarea>
+      </div>
+      <div class="flex-1 flex flex-col relative">
+        <label for="output" class="mb-2 text-gray-700 dark:text-gray-300">Output Text:</label>
+        <div id="output" contenteditable="true" class="flex-1 p-2 border rounded resize overflow-auto bg-white dark:bg-gray-700 text-gray-900 dark:text-gray-100 whitespace-pre-wrap font-mono" style="resize: both; font-family: 'Roboto', sans-serif; font-size: 14px;"></div>
+        <input id="search" type="text" placeholder="Search..." class="absolute top-0 right-0 m-2 p-1 border rounded bg-yellow-200 text-gray-900 hidden">
+      </div>
+    </div>
+  </div>
+  <script>
+    const inputEl = document.getElementById('input');
+    const outputEl = document.getElementById('output');
+    const analyzeBtn = document.getElementById('analyze');
+    const copyBtn = document.getElementById('copy');
+    const typingBtn = document.getElementById('typing');
+    const saveBtn = document.getElementById('save');
+    const pdfBtn = document.getElementById('pdf');
+    const clearBtn = document.getElementById('clear');
+    const themeToggle = document.getElementById('theme-toggle');
+    const searchInput = document.getElementById('search');
+    let originalOutput = '';
+    let placeholderNodes = [];
+    let placeholderCursor = -1;
+
+    function highlight(text) {
+      return text.split('***').map((part, i, arr) => {
+        if (i < arr.length - 1) {
+          return `${part}<span class="placeholder text-black font-bold">***</span>`;
+        }
+        return part;
+      }).join('');
+    }
+
+    analyzeBtn.addEventListener('click', async () => {
+      const res = await fetch('/api/process', {
+        method: 'POST', headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ text: inputEl.value })
+      });
+      const data = await res.json();
+      originalOutput = data.output;
+      outputEl.innerHTML = highlight(originalOutput);
+      placeholderNodes = Array.from(outputEl.querySelectorAll('span.placeholder'));
+      placeholderCursor = -1;
+    });
+
+    copyBtn.addEventListener('click', () => navigator.clipboard.writeText(outputEl.innerText));
+    clearBtn.addEventListener('click', () => {
+      inputEl.value = ''; outputEl.innerHTML = ''; originalOutput = '';
+      placeholderNodes = []; placeholderCursor = -1;
+    });
+    saveBtn.addEventListener('click', () => {
+      const blob = new Blob([outputEl.innerText], { type: 'text/plain' });
+      const link = document.createElement('a'); link.href = URL.createObjectURL(blob);
+      link.download = 'output.txt'; link.click();
+    });
+
+    pdfBtn.addEventListener('click', () => {
+      const { jsPDF } = window.jspdf;
+      const doc = new jsPDF();
+      const lines = doc.splitTextToSize(outputEl.innerText, 180);
+      doc.text(lines, 10, 10); doc.save('output.pdf');
+    });
+
+    typingBtn.addEventListener('click', () => {
+      outputEl.innerText = '';
+      let i = 0;
+      const interval = setInterval(() => {
+        outputEl.innerText += originalOutput.charAt(i);
+        i++;
+        if (i >= originalOutput.length) clearInterval(interval);
+      }, 20);
+    });
+
+    outputEl.addEventListener('keydown', e => {
+      if (e.key === 'Tab') {
+        e.preventDefault();
+        if (placeholderNodes.length) {
+          placeholderCursor = (placeholderCursor + 1) % placeholderNodes.length;
+          const node = placeholderNodes[placeholderCursor];
+          const range = document.createRange();
+          range.selectNodeContents(node);
+          const sel = window.getSelection(); sel.removeAllRanges(); sel.addRange(range);
+        }
+      }
+    });
+
+    document.addEventListener('keydown', e => {
+      if (e.ctrlKey && e.key === 'f') {
+        e.preventDefault(); searchInput.classList.remove('hidden'); searchInput.focus();
+      }
+      if (e.key === 'Escape') searchInput.classList.add('hidden');
+    });
+    searchInput.addEventListener('keydown', e => { if (e.key === 'Enter') window.find(searchInput.value); });
+
+    themeToggle.addEventListener('click', () => {
+      document.documentElement.classList.toggle('dark');
+      document.body.classList.toggle('dark');
+    });
+  </script>
+</body>
+</html>
