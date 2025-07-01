@@ -1,0 +1,57 @@
+        # Endocrinology goes here 
+        'Diabetic ketoacidosis': endocrinology.DiabeticKetoacidosis,
+        'Diabetes mellitus' : endocrinology.DM,
+
+        # Gastroenterology goes here
+        'Upper GI Bleeding': gastroenterology.UpperGIBleeding,
+        'Lower GI Bleeding' : gastroenterology.LowerGIBleeding,
+        'Acute Pancreatitis': gastroenterology.AcutePancreatitis,
+        "Liver cirrhosis" : gastroenterology.LiverCirrhosis,
+        'Clostridium difficile' : gastroenterology.CDiff,
+        "Inflammatory Bowel disease" : gastroenterology.IBD_flare,
+        "Gastroparesis": gastroenterology.Gastroparesis,
+        "Acute diarrhea": gastroenterology.AcuteDiarrhea,
+
+        # Cardiology goes here
+        #'Coronary artery disease': cardiology.CAD,
+        "Acute heart failure": cardiology.AcuteHeartFailure,
+        "Bradycardia": cardiology.Bradycardia,
+        "NSTEMI" : cardiology.AcuteCoronarySyndrome,
+        "Acute pericarditis" : cardiology.AcutePericarditis,
+        "Atrial fibrillation with RVR": cardiology.Afib,
+
+        # Infectious goes here
+        'Sepsis': infectious.Sepsis,
+        'Cellulitis': infectious.SkinInfections,
+        'Cellulitis': infectious.Cellulitis,
+        'Diabetic ulcer': infectious.DiabeticUlcer,
+        "Acute cholecystitis" : infectious.AcuteCholecystitis,
+        'Neutropenic fever': infectious.NeutropenicFever,
+
+        # Nephrology goes here
+        'Hyponatremia': nephrology.Hyponatremia,
+        'Hypokalemia': nephrology.Hypokalemia,
+        'Hyperkalemia': nephrology.Hyperkalemia,
+        'Hypocalcemia' : nephrology.Hypocalcemia,
+        'Hypercalcemia': nephrology.Hypercalcemia,
+        "Hypomagnesemia": nephrology.Hypomagnesemia,
+        'Acute kidney injury': nephrology.AcuteKidneyInjury,
+
+        # Neurology goes here
+        'Altered mental status': neurology.Encephalopathy,
+        'Acute cerebrovascular accident': neurology.CVA,
+        'Myasthenia crisis': neurology.MyastheniaCrisis,
+        'Back pain': neurology.BackPain,
+
+        # Pulmonary goes here
+        'COPD exacerbation': pulmonary.COPDexac,
+        'Asthma exacerbation': pulmonary.Asthmaexac,
+        'ILD exacerbation': pulmonary.ILDexac,
+        'Pleural effusion': pulmonary.Pleuraleffusion,
+        'Acute pulmonary embolism': pulmonary.AcutePulmonaryEmbolism,
+        'COVID-19' : pulmonary.COVID19,
+
+        # Hematology goes here
+        'Thrombocytopenia' : hematology.Thrombocytopenia,
+        "Anemia": hematology.Anemia,
+        "Sickle cell anemia": hematology.SickleCellCrisis
