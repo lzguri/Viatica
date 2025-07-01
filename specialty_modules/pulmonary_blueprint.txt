@@ -1,0 +1,97 @@
+Acute Respiratory failure
+
+
+
+COPD exacerbation 
+- ASSESSMENT [remove on final assessment]
+C/o *** [static, needs to be input manually]
+CXR showing *** [static, needs to be input manually]
+PFTs ***, previous sputum culture *** [recommended for frequent exacerbations]
+Current smoker or previous smoker [pack-year] *** [static, needs to be input manually]
+Labs: PHBLOODPOC, PO2POC, PCO2POC, O2SATPOC [CO2 from CMP or BMP] [this should be pulled from the chart automatically]
+Labs: WBC, PROBNPNTERMI [this should be pulled from the chart automatically]
+Labs: INFLUENZAA, INFLUENZAB, COVID19, RSVAG [this should be pulled from the chart automatically]
+Home meds: SABA, LABA, LAMA, SAMA, roflumilast, [this should be pulled from the chart automatically]
+Chronic azithromycin therapy [checks prolonged QTc in the chart] and/or PO prednisone at home [this should be pulled from the chart automatically]
+- PLAN
+- IV methylprednisolone [static] [create a function, if DM, monitor glucose]
+- Albuterol/Ipratropium nebs [static]
+- Start Rx with *** [static, antibiotic]
+- O2 supp., SpO2 target ~ 88-92 %
+- if pH is < 7.3 and PaCO2 > 50 --> repeat blood gas [create a function that does this]
+- Telemetry monitoring [static]
+- Nicotine patch [current smoker, no NSTEMI or limb ischemia] [static]
+
+Other things to consider
+LDCT as outpatient to screen for lung cancer
+if not responding --> IV Mg 2 mg over 20 mins --> bronchodilator by counteracting calcium influx to the cells [this will be input at a later date as recommendations]
+
+
+IF INFLUENZA POSITIVE [ doesnt need to be in pulmonary, can be in infectious disease as a separate entity]
+Influenza
+positive by PCR
+Plan
+- Start Rx with tamiflu [renally dosed if GFR < 60, create a function for this]
+- Droplet precautions
+
+if COVID-19 positive --> start Rx with dexamethasone [if DM --> monitor closely glucose level] and remdesivir [monitor kidney function], droplet and contact precaution
+
+COPD [chronic] [omit if COPD exacerbation present]
+Not in exacerbation
+Home oxygen use: *** [static, needs to be input by user]
+Home meds: SABA, LABA, LAMA, SAMA, roflumilast, [this should be pulled from the chart automatically]
+Chronic azithromycin therapy [checks prolonged QTc] and/or PO prednisone [this should be pulled from the chart automatically]
+Plan
+- cont with home meds [funciton cont or hold]
+
+
+Asthma exacerbation
+- ASSESSMENT [remove on final assessment]
+C/o *** [static, needs to be input manually]
+CXR showing *** [static, needs to be input manually]
+Labs: ABG, pH, PaO2, PaCO2, SpO2 [bicab from CMP or BMP] [this should be pulled from the chart automatically]
+Labs: WBC, proBNP [this should be pulled from the chart automatically]
+Labs: Influenza, COVID-19, RSV [this should be pulled from the chart automatically]
+Home meds: SABA, LABA, LAMA, SAMA, [this should be pulled from the chart automatically]
+- PLAN
+- IV methylprednisolone [static] [create a function, if DM, monitor glucose]
+- Albuterol/Ipratropium nebs [static]
+- Start Rx with *** [static, antibiotic]
+- O2 supp., SpO2 target > 92 %
+- if pH is < 7.3 and PaCO2 > 50 --> repeat blood gas [create a function that does this]
+- Telemetry monitoring [static]
+
+
+Asthma
+
+OSA
+Obesity Hypoventilation Syndrome
+
+converting brand to generic, so if u search for a class u may get the brand
+maybe implement a function that does this for brands to generic.
+LABA = '''
+Beta-2 Agonists, Inhaled Long-Acting (LABAs)
+Advair Diskus	fluticasone propionate/salmeterol inhaled	 	 
+Advair HFA	fluticasone propionate/salmeterol inhaled	 	 
+AirDuo Digihaler	fluticasone propionate/salmeterol inhaled	 	 
+AirDuo RespiClick	fluticasone propionate/salmeterol inhaled	 	 
+Anoro Ellipta	umeclidinium/vilanterol inhaled	 	 
+arformoterol inhaled	generic	 	 
+Bevespi Aerosphere	glycopyrrolate/formoterol fumarate inhaled	 	 
+Breo Ellipta	fluticasone furoate/vilanterol inhaled	 	 
+Breztri Aerosphere	budesonide/glycopyrrolate/formoterol fumarate inhaled	 	 
+Brovana	arformoterol inhaled	 	 
+budesonide/formoterol inhaled	generic	 	 
+Duaklir Pressair	aclidinium bromide/formoterol fumarate inhaled	 	 
+Dulera	mometasone/formoterol inhaled	 	 
+fluticasone propionate/salmeterol inhaled	generic	 	 
+Foradil Aerolizer	formoterol inhaled	 	 
+formoterol inhaled	generic	 	 
+Perforomist	formoterol inhaled	 	 
+Serevent Diskus	salmeterol inhaled	 	 
+Stiolto Respimat	tiotropium/olodaterol inhaled	 	 
+Striverdi Respimat	olodaterol inhaled	 	 
+Symbicort	budesonide/formoterol inhaled	 	 
+Trelegy Ellipta	fluticasone furoate/umeclidinium/vilanterol inhaled	 	 
+Wixela Inhub	fluticasone propionate/salmeterol inhaled
+'''
