@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
+ <office:meta><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="26" meta:paragraph-count="442" meta:word-count="3599" meta:character-count="21780" meta:non-whitespace-character-count="17849"/><meta:generator>LibreOffice/6.1.5.2$Linux_X86_64 LibreOffice_project/10$Build-2</meta:generator></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">0</config:config-item>
+   <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintFaxName" config:type="string"/>
+   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
+   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">1196261</config:config-item>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
+   <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string"/>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1196261</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
+   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmptyDbFieldHidesPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="Noto Sans Devanagari1" svg:font-family="&apos;Noto Sans Devanagari&apos;" style:font-family-generic="swiss"/>
+  <style:font-face style:name="Liberation Mono" svg:font-family="&apos;Liberation Mono&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
+  <style:font-face style:name="Liberation Serif" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="DejaVu Sans" svg:font-family="&apos;DejaVu Sans&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Sans Devanagari" svg:font-family="&apos;Noto Sans Devanagari&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <style:default-style style:family="graphic">
+   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:flow-with-text="false"/>
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="DejaVu Sans" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Noto Sans Devanagari" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
+  </style:default-style>
+  <style:default-style style:family="paragraph">
+   <style:paragraph-properties fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="0.4925in" style:writing-mode="page"/>
+   <style:text-properties style:use-window-font-color="true" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:font-name-asian="DejaVu Sans" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Noto Sans Devanagari" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+  </style:default-style>
+  <style:default-style style:family="table">
+   <style:table-properties table:border-model="collapsing"/>
+  </style:default-style>
+  <style:default-style style:family="table-row">
+   <style:table-row-properties fo:keep-together="auto"/>
+  </style:default-style>
+  <style:style style:name="Standard" style:family="paragraph" style:class="text"/>
+  <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.1665in" fo:margin-bottom="0.0835in" loext:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="DejaVu Sans" style:font-family-asian="&apos;DejaVu Sans&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="Noto Sans Devanagari" style:font-family-complex="&apos;Noto Sans Devanagari&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0972in" loext:contextual-spacing="false" fo:line-height="115%"/>
+  </style:style>
+  <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Noto Sans Devanagari1" style:font-family-complex="&apos;Noto Sans Devanagari&apos;" style:font-family-generic-complex="swiss"/>
+  </style:style>
+  <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-top="0.0835in" fo:margin-bottom="0.0835in" loext:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="Noto Sans Devanagari1" style:font-family-complex="&apos;Noto Sans Devanagari&apos;" style:font-family-generic-complex="swiss" style:font-size-complex="12pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Noto Sans Devanagari1" style:font-family-complex="&apos;Noto Sans Devanagari&apos;" style:font-family-generic-complex="swiss"/>
+  </style:style>
+  <style:style style:name="Preformatted_20_Text" style:display-name="Preformatted Text" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
+   <style:text-properties style:font-name="Liberation Mono" fo:font-family="&apos;Liberation Mono&apos;" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-size="10pt" style:font-name-asian="Liberation Mono" style:font-family-asian="&apos;Liberation Mono&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-size-asian="10pt" style:font-name-complex="Liberation Mono" style:font-family-complex="&apos;Liberation Mono&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed" style:font-size-complex="10pt"/>
+  </style:style>
+  <text:outline-style style:name="Outline">
+   <text:outline-level-style text:level="1" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="2" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="3" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="4" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="5" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="6" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="7" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="8" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="9" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="10" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+  </text:outline-style>
+  <text:notes-configuration text:note-class="footnote" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
+  <text:notes-configuration text:note-class="endnote" style:num-format="i" text:start-value="0"/>
+  <text:linenumbering-configuration text:number-lines="false" text:offset="0.1965in" style:num-format="1" text:number-position="left" text:increment="5"/>
+ </office:styles>
+ <office:automatic-styles>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties fo:page-width="8.2681in" fo:page-height="11.6929in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7874in" fo:margin-bottom="0.7874in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="lr-tb" style:footnote-max-height="0in">
+    <style:footnote-sep style:width="0.0071in" style:distance-before-sep="0.0398in" style:distance-after-sep="0.0398in" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style/>
+  </style:page-layout>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1"/>
+ </office:master-styles>
+ <office:body>
+  <office:text text:use-soft-page-breaks="true">
+   <text:sequence-decls>
+    <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
+   </text:sequence-decls>
+   <text:p text:style-name="Preformatted_20_Text">is a 60 y.o. female</text:p>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text">Complete blood count</text:p>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text">Lab Results</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Component<text:tab/>Value<text:tab/>Date/Time</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>WBC<text:tab/>6.5<text:tab/>09/22/2023 04:20 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>RBC<text:tab/>3.48 (L)<text:tab/>09/22/2023 04:20 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>HGB<text:tab/>10.9 (L)<text:tab/>09/22/2023 04:20 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>HGB<text:tab/>12.6<text:tab/>09/11/2023 02:42 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>HCT<text:tab/>33.4 (L)<text:tab/>09/22/2023 04:20 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>MCV<text:tab/>96.0<text:tab/>09/22/2023 04:20 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>MCH<text:tab/>31.3<text:tab/>09/22/2023 04:20 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>MCHC<text:tab/>32.6<text:tab/>09/22/2023 04:20 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>PLT<text:tab/>148<text:tab/>09/22/2023 04:20 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>PLT<text:tab/>154<text:tab/>09/11/2023 02:42 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>RDW<text:tab/>12.7<text:tab/>09/22/2023 04:20 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>NEUTROPHIL<text:tab/>5.48<text:tab/>09/22/2023 04:20 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>LYMPHOCYTE<text:tab/>0.59 (L)<text:tab/>09/22/2023 04:20 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>EOSINOPHIL<text:tab/>0.00<text:tab/>09/22/2023 04:20 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/></text:p>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text">Chemistry</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Lab Results</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Component<text:tab/>Value<text:tab/>Date/Time</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>NA<text:tab/>142<text:tab/>09/22/2023 04:20 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>K<text:tab/>9 (L)<text:tab/>09/22/2023 04:20 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>CL<text:tab/>108 (H)<text:tab/>09/22/2023 04:20 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>CO2<text:tab/>24<text:tab/>09/22/2023 04:20 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>CA<text:tab/>8.1 (L)<text:tab/>09/22/2023 04:20 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>CA<text:tab/>8.7 (L)<text:tab/>09/11/2023 02:42 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>BUN<text:tab/>14<text:tab/>09/22/2023 04:20 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>CREAT<text:tab/>0.79<text:tab/>09/22/2023 04:20 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>GFR<text:tab/>&gt;60<text:tab/>09/22/2023 04:20 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>GFR<text:tab/>&gt;60<text:tab/>09/11/2023 02:42 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>GLUCOSE<text:tab/>151 (H)<text:tab/>09/22/2023 04:20 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>TOTALPROTEIN<text:tab/>5.3 (L)<text:tab/>09/22/2023 04:20 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>ALBUMIN<text:tab/>3.3 (L)<text:tab/>09/22/2023 04:20 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>BILITOTAL<text:tab/>0.3<text:tab/>09/22/2023 04:20 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>LIPASE<text:tab/>142<text:tab/>04/12/2015 05:01 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>ALKPHOS<text:tab/>27 (L)<text:tab/>09/22/2023 04:20 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/><text:s text:c="4"/>ALKPHOS<text:tab/>37<text:tab/>09/11/2023 02:42 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>AST<text:tab/>16<text:tab/>09/22/2023 04:20 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>ALT<text:tab/>31<text:tab/>09/22/2023 04:20 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>ANIONGAP<text:tab/>10<text:tab/>09/22/2023 04:20 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>T4FREE<text:tab/>1.1<text:tab/>03/23/2023 11:14 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>LACTATE<text:tab/>1.3<text:tab/>04/04/2020 11:52 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text">Cardiac profile</text:p>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text">Lab Results</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Component<text:tab/>Value<text:tab/>Date/Time</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>INR<text:tab/>0.9<text:tab/>06/19/2023 07:16 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>PT<text:tab/>12.6 (L)<text:tab/>06/19/2023 07:16 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text">workup</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Lab Results</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Component<text:tab/>Value<text:tab/>Date/Time</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>IRON<text:tab/>116<text:tab/>02/24/2016 12:23 PM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>FERRITIN<text:tab/>43.9<text:tab/>02/24/2016 12:23 PM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/><text:s text:c="4"/>VITAMINB12<text:tab/>423<text:tab/>01/19/2017 10:07 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>VITAMINB12<text:tab/>185 (L)<text:tab/>05/17/2016 12:58 PM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text">Lab Results</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Component<text:tab/>Value<text:tab/>Date/Time</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>PHUA<text:tab/>6.0<text:tab/>09/11/2023 09:20 PM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>SGUR<text:tab/>1.010<text:tab/>09/11/2023 09:20 PM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>URINELEUKOC<text:tab/>Negative<text:tab/>09/11/2023 09:20 PM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>NITRITEUA<text:tab/>Negative<text:tab/>09/11/2023 09:20 PM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>KETONEURINE<text:tab/>Negative<text:tab/>09/11/2023 09:20 PM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>PROTEINUA<text:tab/>Negative<text:tab/>09/11/2023 09:20 PM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>GLUUA<text:tab/>Negative<text:tab/>09/11/2023 09:20 PM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>BLOODUA<text:tab/>Negative<text:tab/>09/11/2023 09:20 PM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>WBCU<text:tab/>0-5<text:tab/>09/08/2023 11:22 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>RBCUA<text:tab/>0-2<text:tab/>09/08/2023 11:22 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>BACTERIAUA<text:tab/>NONE SEEN<text:tab/>09/08/2023 11:22 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>UREPITHELIAL<text:tab/>10-20 (A)<text:tab/>09/08/2023 11:22 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text">Lab Results</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/>Component<text:tab/>Value<text:tab/>Date/Time</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>ESR<text:tab/>10<text:tab/>11/22/2022 10:13 PM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>CRP<text:tab/>&lt;3.0<text:tab/>11/22/2022 10:13 PM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>CRP<text:tab/>&lt;2.9<text:tab/>04/12/2015 05:01 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text">No results found for: &quot;PHBLOODPOC&quot;, &quot;PCO2POC&quot;, &quot;PO2POC&quot;, &quot;PFRATIO&quot;, &quot;O2SATPOC&quot;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text">Lab Results</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Component<text:tab/>Value<text:tab/>Date/Time</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>INFLUENZAA<text:tab/>Not Detected<text:tab/>09/10/2023 06:03 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>INFLUENZAB<text:tab/>Not Detected<text:tab/>09/10/2023 06:03 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>COVID19<text:tab/>Not Detected<text:tab/>09/10/2023 06:03 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>RSVAG<text:tab/>Not Detected<text:tab/>09/10/2023 06:03 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text">Lab Results</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Component<text:tab/>Value<text:tab/>Date/Time</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>HGBA1C<text:tab/>5.1<text:tab/>08/16/2023 08:33 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>LDLCALC<text:tab/>153 (H)<text:tab/>05/11/2022 08:42 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/></text:p>
+   <text:p text:style-name="Preformatted_20_Text">Lab Results</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Component<text:tab/>Value<text:tab/>Date/Time</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>TRIGLYCERIDE<text:tab/>151 (H)<text:tab/>05/11/2022 08:42 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>TSH<text:tab/>0.86<text:tab/>03/23/2023 11:14 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text">Toxicology</text:p>
+   <text:p text:style-name="Preformatted_20_Text">No results found for: &quot;ETHANOL&quot;, &quot;ACETAMINOPHE&quot;, &quot;SALICYLATE&quot;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text">Vitamins</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Lab Results</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Component<text:tab/>Value<text:tab/>Date/Time</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>VITAMINDTO<text:tab/>38<text:tab/>07/31/2018 12:38 PM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text">Tumor markers</text:p>
+   <text:p text:style-name="Preformatted_20_Text">No results found for: &quot;AFPTM&quot;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text">Virology</text:p>
+   <text:p text:style-name="Preformatted_20_Text">No results found for: &quot;CD4&quot;, &quot;HIV1RNACOPIE&quot;, &quot;HEPAIGM&quot;, &quot;HEPBCORIGM&quot;, &quot;HEPBSAG&quot;, &quot;HEPCAB&quot; </text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/></text:p>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text">GIPATHOGEN</text:p>
+   <text:p text:style-name="Preformatted_20_Text">No results found for: &quot;CLOSTRIDIU&quot;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text">Principal Problem:</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="2"/>Morbilliform rash</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Active Problems:</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="2"/>Gastroesophageal reflux disease without esophagitis</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="2"/>Cancer, metastatic to bone</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="2"/>Coronary artery disease involving native coronary artery of native heart without angina pectoris</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="2"/>Mixed hyperlipidemia</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="2"/>Drug reaction</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s/></text:p>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text">Vitals:</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>09/12/23 1547</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/>BP:<text:tab/>101/49</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Pulse:<text:tab/></text:p>
+   <text:p text:style-name="Preformatted_20_Text">Resp:<text:tab/>17</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Temp:<text:tab/>98.2 ï¿½F (36.8 ï¿½C)</text:p>
+   <text:p text:style-name="Preformatted_20_Text">SpO2:<text:tab/>95%</text:p>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text">Prior to Admission Medications</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Prescriptions<text:tab/>Last Dose<text:tab/>Informant<text:tab/>Patient Reported?<text:tab/>Taking?</text:p>
+   <text:p text:style-name="Preformatted_20_Text">CALCIUM CARBONATE-VITAMIN D3 ORAL<text:tab/>9/9/2023 at 0800<text:tab/><text:tab/>Yes<text:tab/>Yes</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: Take by mouth daily.</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Elmiron 100 mg Capsule<text:tab/>9/9/2023 at 0800<text:tab/><text:tab/>No<text:tab/>Yes</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: TAKE 1 CAPSULE(100 MG) BY MOUTH THREE TIMES DAILY</text:p>
+   <text:p text:style-name="Preformatted_20_Text">HYDROcodone-acetaminophen (NORCO) 5-325 mg tablet<text:tab/>Unknown<text:tab/><text:tab/>No<text:tab/>No</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: Take 1 Tablet by mouth every 4 hours as needed for Pain, Moderate. Max Daily Amount: 6 Tablets</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Lyrica 150 mg Capsule<text:tab/>Past Week<text:tab/><text:tab/>No<text:tab/>Yes</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: TAKE 1 CAPSULE BY MOUTH AT BEDTIME</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Nebulizer Accessories Kit<text:tab/><text:tab/><text:tab/>Yes<text:tab/>No</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: Use as directed with nebulizer</text:p>
+   <text:p text:style-name="Preformatted_20_Text">albuterol sulfate 90 mcg/Actuation inhaler<text:tab/>Past Month<text:tab/><text:tab/>Yes<text:tab/>Yes</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/>Sig: Take 2 Puffs by inhalation every 6 hours as needed.</text:p>
+   <text:p text:style-name="Preformatted_20_Text">alpelisib 300 mg/day (150 mg x 2) Tablet<text:tab/>Past Week<text:tab/><text:tab/>No<text:tab/>Yes</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: Take 300 mg by mouth daily.</text:p>
+   <text:p text:style-name="Preformatted_20_Text">alpelisib, PROS, 50 mg Tablet<text:tab/>Past Week<text:tab/><text:tab/>No<text:tab/>Yes</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: Take 1 Tablet by mouth daily for 7 days.</text:p>
+   <text:p text:style-name="Preformatted_20_Text">ascorbic acid, vitamin C, (VITAMIN C) 500 mg tablet<text:tab/>9/9/2023 at 0800<text:tab/><text:tab/>Yes<text:tab/>Yes</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: Take 500 mg by mouth daily.</text:p>
+   <text:p text:style-name="Preformatted_20_Text">atorvastatin (LIPITOR) 80 mg tablet<text:tab/>Unknown<text:tab/><text:tab/>No<text:tab/>No</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: TAKE 1 TABLET(80 MG) BY MOUTH DAILY WITH SUPPER</text:p>
+   <text:p text:style-name="Preformatted_20_Text">azelastine (ASTELIN) 137 mcg/actuation nasal spray<text:tab/>Unknown<text:tab/><text:tab/>No<text:tab/>No</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: USE 2 SPRAYS IN EACH NOSTRIL TWICE DAILY</text:p>
+   <text:p text:style-name="Preformatted_20_Text">cannabidiol, CBD, product, for documentation purposes,<text:tab/>&gt; Month<text:tab/><text:tab/>Yes<text:tab/>No</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: Take by mouth 2 times daily.</text:p>
+   <text:p text:style-name="Preformatted_20_Text">cetirizine (ZyrTEC) 10 mg tablet<text:tab/>9/9/2023 at 0800<text:tab/><text:tab/>Yes<text:tab/>Yes</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: Take 10 mg by mouth daily.</text:p>
+   <text:p text:style-name="Preformatted_20_Text">cholecalciferol, vitamin D3, 1,000 unit<text:tab/>Unknown<text:tab/><text:tab/>Yes<text:tab/>No</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: Take 1,000 Units by mouth daily.</text:p>
+   <text:p text:style-name="Preformatted_20_Text">clonazePAM (KlonoPIN) 0.5 mg Tablet<text:tab/>Past Week<text:tab/><text:tab/>No<text:tab/>Yes</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: TAKE 1 TABLET BY MOUTH EVERY NIGHT AT BEDTIME FOR INSOMNIA</text:p>
+   <text:p text:style-name="Preformatted_20_Text">cyclobenzaprine (FLEXERIL) 10 mg tablet<text:tab/>Past Week<text:tab/><text:tab/>No<text:tab/>Yes</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: TAKE 1 TABLET BY MOUTH EVERY EVENING FOR SPASM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/>denosumab (XGEVA) 120 mg/1.7 mL (70 mg/mL) Solution<text:tab/>&gt; Month<text:tab/><text:tab/>Yes<text:tab/>No</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: Inject 120 mg by subcutaneous injection every 30 days.</text:p>
+   <text:p text:style-name="Preformatted_20_Text">dexAMETHasone (DECADRON) 0.5 mg/5 mL Solution<text:tab/>Unknown<text:tab/><text:tab/>No<text:tab/>No</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: Take 5 ml and swish and spit 4 times daily while on the Affinitor.</text:p>
+   <text:p text:style-name="Preformatted_20_Text">docusate sodium (COLACE) 50 mg capsule<text:tab/>Unknown<text:tab/><text:tab/>No<text:tab/>No</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: Take 1 Capsule (50 mg) by mouth 2 times daily.</text:p>
+   <text:p text:style-name="Preformatted_20_Text">hydrOXYzine HCL (ATARAX) 25 mg tablet<text:tab/>9/9/2023 at 0800<text:tab/><text:tab/>No<text:tab/>Yes</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: Take 1 Tablet (25 mg) by mouth daily.</text:p>
+   <text:p text:style-name="Preformatted_20_Text">levoFLOXacin (LEVAQUIN) 250 mg tablet<text:tab/>9/9/2023 at 0800<text:tab/><text:tab/>No<text:tab/>Yes</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: Take 1 Tablet (250 mg) by mouth daily.</text:p>
+   <text:p text:style-name="Preformatted_20_Text">methenamine hippurate (HIPREX) 1 gram Tablet<text:tab/>9/9/2023 at 0800<text:tab/><text:tab/>No<text:tab/>Yes</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: TAKE 1 TABLET(1000 MG) BY MOUTH TWICE DAILY</text:p>
+   <text:p text:style-name="Preformatted_20_Text">methocarbamoL (ROBAXIN) 750 mg tablet<text:tab/>Past Week<text:tab/><text:tab/>No<text:tab/>Yes</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: TAKE 1 TABLET BY MOUTH THREE TIMES DAILY AS NEEDED FOR SPASM</text:p>
+   <text:p text:style-name="Preformatted_20_Text">methylPREDNISolone (MEDROL DOSPACK) 4 mg Tablets, Dose Pack<text:tab/>Unknown<text:tab/><text:tab/>No<text:tab/>No</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: As instructed.</text:p>
+   <text:p text:style-name="Preformatted_20_Text">mometasone (Asmanex Twisthaler) 220 mcg Aerosol Powdr Breath Activated<text:tab/>Unknown<text:tab/><text:tab/>Yes<text:tab/>No</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: Take 1 Puff by inhalation 2 times daily.</text:p>
+   <text:p text:style-name="Preformatted_20_Text">naloxone (NARCAN) 4 mg/spray Spray, Non-Aerosol<text:tab/>Unknown<text:tab/><text:tab/>No<text:tab/>No</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: EMERGENCY USE ONLY: Administer 1 spray (4 mg) in one nostril one time. May repeat in alternating nostrils every 2-3 min until responsive or EMS arrives.</text:p>
+   <text:p text:style-name="Preformatted_20_Text">nebulizer<text:tab/><text:tab/><text:tab/>Yes<text:tab/>No</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/>Sig: Length of need <text:s/>99 months</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Nebulizer with compressor, Kit: Permanent Nebulizer Kit, 1 per 6 months, filters , areosol mask: Yes. Name of Medication duoneb</text:p>
+   <text:p text:style-name="Preformatted_20_Text">ondansetron (Zofran) 4 mg Tablet<text:tab/>Past Week<text:tab/><text:tab/>No<text:tab/>Yes</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: Take 1 Tablet (4 mg) by mouth every 6 hours as needed for Nausea/Emesis.</text:p>
+   <text:p text:style-name="Preformatted_20_Text">oxyBUTYnin (DITROPAN) 5 mg tablet<text:tab/>9/9/2023 at 0800<text:tab/><text:tab/>No<text:tab/>Yes</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: TAKE 1 TABLET(5 MG) BY MOUTH THREE TIMES DAILY AS NEEDED FOR BLADDER</text:p>
+   <text:p text:style-name="Preformatted_20_Text">pantoprazole (PROTONIX) 40 mg Tablet, Delayed Release (E.C.)<text:tab/>9/9/2023 at 0800<text:tab/><text:tab/>No<text:tab/>Yes</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: TAKE 1 TABLET BY MOUTH DAILY</text:p>
+   <text:p text:style-name="Preformatted_20_Text">phenazopyridine 200 mg tablet<text:tab/>Unknown<text:tab/><text:tab/>No<text:tab/>No</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: Take 1 Tablet (200 mg) by mouth 3 times daily as needed for Pain.</text:p>
+   <text:p text:style-name="Preformatted_20_Text">predniSONE (DELTASONE) 10 mg tablet<text:tab/>9/9/2023 at 0800<text:tab/><text:tab/>No<text:tab/>Yes</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: Take 1 Tablet (10 mg) by mouth 3 times daily with meals.</text:p>
+   <text:p text:style-name="Preformatted_20_Text">promethazine (PHENERGAN) 25 mg tablet<text:tab/>&gt; Month<text:tab/><text:tab/>Yes<text:tab/>No</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: Take 25 mg by mouth every 6 hours as needed.</text:p>
+   <text:p text:style-name="Preformatted_20_Text">spironolactone (ALDACTONE) 100 mg tablet<text:tab/>9/9/2023 at 0800<text:tab/><text:tab/>No<text:tab/>Yes</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: TAKE 1 TABLET(100 MG) BY MOUTH TWICE DAILY</text:p>
+   <text:p text:style-name="Preformatted_20_Text">triamcinolone acetonide (KENALOG) 0.5 % Cream<text:tab/>Unknown<text:tab/><text:tab/>No<text:tab/>No</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: Apply to affected areas of back twice daily for two weeks for flares.</text:p>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text">Facility-Administered Medications: None</text:p>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/></text:p>
+   <text:p text:style-name="Preformatted_20_Text">Current Facility-Administered Medications</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Medication<text:tab/>Dose<text:tab/>Route<text:tab/>Frequency<text:tab/>Provider<text:tab/>Last Rate<text:tab/>Last Admin</text:p>
+   <text:p text:style-name="Preformatted_20_Text">ï¿½<text:tab/>potassium chloride (KLOR-CON) SR tablet 20 mEq<text:tab/> 20 mEq<text:tab/>Oral<text:tab/>BID WITH meals<text:tab/>Dailey, Zachariah, MD<text:tab/> <text:tab/>20 mEq at 09/12/23 1603</text:p>
+   <text:p text:style-name="Preformatted_20_Text">ï¿½<text:tab/>predniSONE (DELTASONE) tablet 65 mg<text:tab/> 65 mg<text:tab/>Oral<text:tab/>daily WITH breakfast<text:tab/>Balasundaram, Chitra, MD<text:tab/> <text:tab/>65 mg at 09/12/23 1603</text:p>
+   <text:p text:style-name="Preformatted_20_Text">ï¿½<text:tab/>famotidine (PEPCID) tablet 20 mg<text:tab/> 20 mg<text:tab/>Oral<text:tab/>BID<text:tab/>Balasundaram, Chitra, MD<text:tab/> <text:tab/> </text:p>
+   <text:p text:style-name="Preformatted_20_Text">ï¿½<text:tab/>loperamide (IMODIUM) capsule 2 mg<text:tab/> 2 mg<text:tab/>Oral<text:tab/>QID PRN<text:tab/>Dailey, Zachariah, MD<text:tab/> <text:tab/>2 mg at 09/12/23 1603</text:p>
+   <text:p text:style-name="Preformatted_20_Text">ï¿½<text:tab/>clonazePAM (KlonoPIN) tablet 0.5 mg<text:tab/> 0.5 mg<text:tab/>Oral<text:tab/>daily BEDTIME<text:tab/>Zguri, Liridon, MD<text:tab/> <text:tab/>0.5 mg at 09/11/23 2139</text:p>
+   <text:p text:style-name="Preformatted_20_Text">ï¿½<text:tab/>HYDROcodone-acetaminophen (NORCO) 5-325 mg per tablet 1 Tablet<text:tab/> 1 Tablet<text:tab/>Oral<text:tab/>every 4 hours PRN<text:tab/>Zguri, Liridon, MD<text:tab/> <text:tab/> </text:p>
+   <text:p text:style-name="Preformatted_20_Text">ï¿½<text:tab/>oxyBUTYnin (DITROPAN) tablet 5 mg<text:tab/> 5 mg<text:tab/>Oral<text:tab/>TID PRN<text:tab/>Zguri, Liridon, MD<text:tab/> <text:tab/>5 mg at 09/12/23 1136</text:p>
+   <text:p text:style-name="Preformatted_20_Text">ï¿½<text:tab/>spironolactone (ALDACTONE) tablet 100 mg<text:tab/> 100 mg<text:tab/>Oral<text:tab/>BID<text:tab/>Zguri, Liridon, MD<text:tab/> <text:tab/>100 mg at 09/12/23 0815</text:p>
+   <text:p text:style-name="Preformatted_20_Text">ï¿½<text:tab/>methenamine hippurate (HIPREX) tablet 1,000 mg -- PATIENT MUST SUPPLY HOME MEDICATION<text:tab/> 1,000 mg<text:tab/>Oral<text:tab/>BID<text:tab/>Dailey, Zachariah, MD<text:tab/> <text:tab/>1,000 mg at 09/11/23 0900</text:p>
+   <text:p text:style-name="Preformatted_20_Text">ï¿½<text:tab/>pregabalin (LYRICA) capsule 150 mg<text:tab/> 150 mg<text:tab/>Oral<text:tab/>daily BEDTIME<text:tab/>Dailey, Zachariah, MD<text:tab/> <text:tab/>150 mg at 09/11/23 2138</text:p>
+   <text:p text:style-name="Preformatted_20_Text">ï¿½<text:tab/>methocarbamoL (ROBAXIN) tablet 750 mg<text:tab/> 750 mg<text:tab/>Oral<text:tab/>TID PRN<text:tab/>Dailey, Zachariah, MD<text:tab/> <text:tab/>750 mg at 09/12/23 0815</text:p>
+   <text:p text:style-name="Preformatted_20_Text">ï¿½<text:tab/>pentosan polysulfate sodium (ELMIRON) capsule 100 mg<text:tab/> 100 mg<text:tab/>Oral<text:tab/>TID BEFORE meals<text:tab/>Dailey, Zachariah, MD<text:tab/> <text:tab/>100 mg at 09/12/23 1603</text:p>
+   <text:p text:style-name="Preformatted_20_Text">ï¿½<text:tab/>[DISCONTINUED] hydrOXYzine HCL (ATARAX) tablet 25 mg<text:tab/> 25 mg<text:tab/>Oral<text:tab/>daily<text:tab/>Zguri, Liridon, MD<text:tab/> <text:tab/>25 mg at 09/12/23 0819</text:p>
+   <text:p text:style-name="Preformatted_20_Text">ï¿½<text:tab/>naloxone (NARCAN) 0.4 mg/mL injection 0.1 mg<text:tab/> 0.1 mg<text:tab/>IV<text:tab/>see admin instructions<text:tab/>Zguri, Liridon, MD<text:tab/> <text:tab/> </text:p>
+   <text:p text:style-name="Preformatted_20_Text">ï¿½<text:tab/>enoxaparin (LOVENOX) injection 40 mg<text:tab/> 40 mg<text:tab/>subCUT<text:tab/>every 24 hours<text:tab/>Zguri, Liridon, MD<text:tab/> <text:tab/>40 mg at 09/12/23 1328</text:p>
+   <text:p text:style-name="Preformatted_20_Text">ï¿½<text:tab/>[DISCONTINUED] diphenhydrAMINE (BENADRYL) injection 25 mg<text:tab/> 25 mg<text:tab/>IV<text:tab/>every 6 hours<text:tab/>Snider, Jessica Nicole, DO<text:tab/> <text:tab/>25 mg at 09/12/23 1204</text:p>
+   <text:p text:style-name="Preformatted_20_Text">ï¿½<text:tab/>[DISCONTINUED] methylPREDNISolone sodium succinate (SOLU-Medrol) 125 mg in sterile water 2 mL injection<text:tab/> 125 mg<text:tab/>IV<text:tab/>every 6 hours<text:tab/>Snider, Jessica Nicole, DO<text:tab/> <text:tab/>125 mg at 09/12/23 1204</text:p>
+   <text:p text:style-name="Preformatted_20_Text">ï¿½<text:tab/>[DISCONTINUED] famotidine PF (PEPCID) 20 mg/2 mL injection 20 mg<text:tab/> 20 mg<text:tab/>IV<text:tab/>every 12 hours (2 times daily)<text:tab/>Snider, Jessica Nicole, DO<text:tab/> <text:tab/>20 mg at 09/12/23 0851</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/>ï¿½<text:tab/>[DISCONTINUED] VANCOMYCIN CONSULT TO PHARMACY<text:tab/> 1 Each<text:tab/>See Admin Instructions<text:tab/>see admin instructions<text:tab/>Snider, Jessica Nicole, DO<text:tab/> <text:tab/> </text:p>
+   <text:p text:style-name="Preformatted_20_Text">ï¿½<text:tab/>[DISCONTINUED] piperacillin-tazobactam (ZOSYN) 3.375 Gram in sodium chloride 0.9% 50 mL IVPB (MBP)<text:tab/> 3.375 Gram<text:tab/>IV<text:tab/>every 6 hours<text:tab/>Snider, Jessica Nicole, DO<text:tab/> <text:tab/>Stopped at 09/12/23 0636</text:p>
+   <text:p text:style-name="Preformatted_20_Text">ï¿½<text:tab/>[DISCONTINUED] vancomycin (VANCOCIN) 1,000 mg in sodium chloride 0.9% 250 mL IVPB<text:tab/> 1,000 mg<text:tab/>IV<text:tab/>every 12 hours<text:tab/>Snider, Jessica Nicole, DO<text:tab/> <text:tab/>Stopped at 09/12/23 0036</text:p>
+   <text:p text:style-name="Preformatted_20_Text">ï¿½<text:tab/>sodium chloride flush injection 5 mL<text:tab/> 5 mL<text:tab/>IV<text:tab/>every 12 hours (2 times daily)<text:tab/>Plate, Rachel, MD<text:tab/> <text:tab/>5 mL at 09/12/23 0836</text:p>
+   <text:p text:style-name="Preformatted_20_Text">ï¿½<text:tab/>sodium chloride flush injection 5 mL<text:tab/> 5 mL<text:tab/>IV<text:tab/>see admin instructions<text:tab/>Plate, Rachel, MD<text:tab/> <text:tab/> </text:p>
+   <text:p text:style-name="Preformatted_20_Text">ï¿½<text:tab/>sodium chloride 0.9 % 250 mL flush bag 25 mL<text:tab/> 25 mL<text:tab/>IV<text:tab/>see admin instructions<text:tab/>Plate, Rachel, MD<text:tab/> <text:tab/> </text:p>
+   <text:p text:style-name="Preformatted_20_Text">ï¿½<text:tab/>dextrose 5 % in water 250 mL flush bag 25 mL<text:tab/> 25 mL<text:tab/>IV<text:tab/>see admin instructions<text:tab/>Plate, Rachel, MD<text:tab/> <text:tab/> </text:p>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text">pneumonia</text:p>
+   <text:p text:style-name="Preformatted_20_Text">unstable angina</text:p>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text">hyperkalemia <text:s/>is a 60 y.o. female</text:p>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text">Complete blood count</text:p>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text">Lab Results</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Component<text:tab/>Value<text:tab/>Date/Time</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>WBC<text:tab/>6.5<text:tab/>09/22/2023 04:20 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>RBC<text:tab/>3.48 (L)<text:tab/>09/22/2023 04:20 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>HGB<text:tab/>10.9 (L)<text:tab/>09/22/2023 04:20 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/><text:s text:c="4"/>HGB<text:tab/>12.6<text:tab/>09/11/2023 02:42 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>HCT<text:tab/>33.4 (L)<text:tab/>09/22/2023 04:20 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>MCV<text:tab/>96.0<text:tab/>09/22/2023 04:20 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>MCH<text:tab/>31.3<text:tab/>09/22/2023 04:20 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>MCHC<text:tab/>32.6<text:tab/>09/22/2023 04:20 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>PLT<text:tab/>148<text:tab/>09/22/2023 04:20 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>PLT<text:tab/>154<text:tab/>09/11/2023 02:42 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>RDW<text:tab/>12.7<text:tab/>09/22/2023 04:20 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>NEUTROPHIL<text:tab/>5.48<text:tab/>09/22/2023 04:20 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>LYMPHOCYTE<text:tab/>0.59 (L)<text:tab/>09/22/2023 04:20 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>EOSINOPHIL<text:tab/>0.00<text:tab/>09/22/2023 04:20 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text">Chemistry</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Lab Results</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Component<text:tab/>Value<text:tab/>Date/Time</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>NA<text:tab/>142<text:tab/>09/22/2023 04:20 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>K<text:tab/>9 (L)<text:tab/>09/22/2023 04:20 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>CL<text:tab/>108 (H)<text:tab/>09/22/2023 04:20 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>CO2<text:tab/>24<text:tab/>09/22/2023 04:20 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>CA<text:tab/>8.1 (L)<text:tab/>09/22/2023 04:20 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/><text:s text:c="4"/>CA<text:tab/>8.7 (L)<text:tab/>09/11/2023 02:42 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>BUN<text:tab/>14<text:tab/>09/22/2023 04:20 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>CREAT<text:tab/>0.79<text:tab/>09/22/2023 04:20 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>GFR<text:tab/>&gt;60<text:tab/>09/22/2023 04:20 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>GFR<text:tab/>&gt;60<text:tab/>09/11/2023 02:42 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>GLUCOSE<text:tab/>151 (H)<text:tab/>09/22/2023 04:20 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>TOTALPROTEIN<text:tab/>5.3 (L)<text:tab/>09/22/2023 04:20 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>ALBUMIN<text:tab/>3.3 (L)<text:tab/>09/22/2023 04:20 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>BILITOTAL<text:tab/>0.3<text:tab/>09/22/2023 04:20 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>LIPASE<text:tab/>142<text:tab/>04/12/2015 05:01 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>ALKPHOS<text:tab/>27 (L)<text:tab/>09/22/2023 04:20 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>ALKPHOS<text:tab/>37<text:tab/>09/11/2023 02:42 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>AST<text:tab/>16<text:tab/>09/22/2023 04:20 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>ALT<text:tab/>31<text:tab/>09/22/2023 04:20 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>ANIONGAP<text:tab/>10<text:tab/>09/22/2023 04:20 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>T4FREE<text:tab/>1.1<text:tab/>03/23/2023 11:14 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>LACTATE<text:tab/>1.3<text:tab/>04/04/2020 11:52 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text">Cardiac profile</text:p>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/>Lab Results</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Component<text:tab/>Value<text:tab/>Date/Time</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>INR<text:tab/>0.9<text:tab/>06/19/2023 07:16 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>PT<text:tab/>12.6 (L)<text:tab/>06/19/2023 07:16 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text">workup</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Lab Results</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Component<text:tab/>Value<text:tab/>Date/Time</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>IRON<text:tab/>116<text:tab/>02/24/2016 12:23 PM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>FERRITIN<text:tab/>43.9<text:tab/>02/24/2016 12:23 PM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>VITAMINB12<text:tab/>423<text:tab/>01/19/2017 10:07 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>VITAMINB12<text:tab/>185 (L)<text:tab/>05/17/2016 12:58 PM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text">Lab Results</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Component<text:tab/>Value<text:tab/>Date/Time</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>PHUA<text:tab/>6.0<text:tab/>09/11/2023 09:20 PM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>SGUR<text:tab/>1.010<text:tab/>09/11/2023 09:20 PM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>URINELEUKOC<text:tab/>Negative<text:tab/>09/11/2023 09:20 PM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>NITRITEUA<text:tab/>Negative<text:tab/>09/11/2023 09:20 PM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/><text:s text:c="4"/>KETONEURINE<text:tab/>Negative<text:tab/>09/11/2023 09:20 PM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>PROTEINUA<text:tab/>Negative<text:tab/>09/11/2023 09:20 PM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>GLUUA<text:tab/>Negative<text:tab/>09/11/2023 09:20 PM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>BLOODUA<text:tab/>Negative<text:tab/>09/11/2023 09:20 PM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>WBCU<text:tab/>0-5<text:tab/>09/08/2023 11:22 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>RBCUA<text:tab/>0-2<text:tab/>09/08/2023 11:22 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>BACTERIAUA<text:tab/>NONE SEEN<text:tab/>09/08/2023 11:22 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>UREPITHELIAL<text:tab/>10-20 (A)<text:tab/>09/08/2023 11:22 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text">Lab Results</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Component<text:tab/>Value<text:tab/>Date/Time</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>ESR<text:tab/>10<text:tab/>11/22/2022 10:13 PM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>CRP<text:tab/>&lt;3.0<text:tab/>11/22/2022 10:13 PM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>CRP<text:tab/>&lt;2.9<text:tab/>04/12/2015 05:01 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text">No results found for: &quot;PHBLOODPOC&quot;, &quot;PCO2POC&quot;, &quot;PO2POC&quot;, &quot;PFRATIO&quot;, &quot;O2SATPOC&quot;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text">Lab Results</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Component<text:tab/>Value<text:tab/>Date/Time</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/><text:s text:c="4"/>INFLUENZAA<text:tab/>Not Detected<text:tab/>09/10/2023 06:03 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>INFLUENZAB<text:tab/>Not Detected<text:tab/>09/10/2023 06:03 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>COVID19<text:tab/>Not Detected<text:tab/>09/10/2023 06:03 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>RSVAG<text:tab/>Not Detected<text:tab/>09/10/2023 06:03 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text">Lab Results</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Component<text:tab/>Value<text:tab/>Date/Time</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>HGBA1C<text:tab/>5.1<text:tab/>08/16/2023 08:33 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>LDLCALC<text:tab/>153 (H)<text:tab/>05/11/2022 08:42 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text">Lab Results</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Component<text:tab/>Value<text:tab/>Date/Time</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>TRIGLYCERIDE<text:tab/>151 (H)<text:tab/>05/11/2022 08:42 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>TSH<text:tab/>0.86<text:tab/>03/23/2023 11:14 AM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text">Toxicology</text:p>
+   <text:p text:style-name="Preformatted_20_Text">No results found for: &quot;ETHANOL&quot;, &quot;ACETAMINOPHE&quot;, &quot;SALICYLATE&quot;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/>Vitamins</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Lab Results</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Component<text:tab/>Value<text:tab/>Date/Time</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>VITAMINDTO<text:tab/>38<text:tab/>07/31/2018 12:38 PM</text:p>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text">Tumor markers</text:p>
+   <text:p text:style-name="Preformatted_20_Text">No results found for: &quot;AFPTM&quot;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text">Virology</text:p>
+   <text:p text:style-name="Preformatted_20_Text">No results found for: &quot;CD4&quot;, &quot;HIV1RNACOPIE&quot;, &quot;HEPAIGM&quot;, &quot;HEPBCORIGM&quot;, &quot;HEPBSAG&quot;, &quot;HEPCAB&quot; </text:p>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text">GIPATHOGEN</text:p>
+   <text:p text:style-name="Preformatted_20_Text">No results found for: &quot;CLOSTRIDIU&quot;</text:p>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text">Principal Problem:</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="2"/>Morbilliform rash</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/>Active Problems:</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="2"/>Gastroesophageal reflux disease without esophagitis</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="2"/>Cancer, metastatic to bone</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="2"/>Coronary artery disease involving native coronary artery of native heart without angina pectoris</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="2"/>Mixed hyperlipidemia</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="2"/>Drug reaction</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s/></text:p>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text">Vitals:</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>09/12/23 1547</text:p>
+   <text:p text:style-name="Preformatted_20_Text">BP:<text:tab/>101/49</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Pulse:<text:tab/></text:p>
+   <text:p text:style-name="Preformatted_20_Text">Resp:<text:tab/>17</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Temp:<text:tab/>98.2 ï¿½F (36.8 ï¿½C)</text:p>
+   <text:p text:style-name="Preformatted_20_Text">SpO2:<text:tab/>95%</text:p>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text">Prior to Admission Medications</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Prescriptions<text:tab/>Last Dose<text:tab/>Informant<text:tab/>Patient Reported?<text:tab/>Taking?</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/>CALCIUM CARBONATE-VITAMIN D3 ORAL<text:tab/>9/9/2023 at 0800<text:tab/><text:tab/>Yes<text:tab/>Yes</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: Take by mouth daily.</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Elmiron 100 mg Capsule<text:tab/>9/9/2023 at 0800<text:tab/><text:tab/>No<text:tab/>Yes</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: TAKE 1 CAPSULE(100 MG) BY MOUTH THREE TIMES DAILY</text:p>
+   <text:p text:style-name="Preformatted_20_Text">HYDROcodone-acetaminophen (NORCO) 5-325 mg tablet<text:tab/>Unknown<text:tab/><text:tab/>No<text:tab/>No</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: Take 1 Tablet by mouth every 4 hours as needed for Pain, Moderate. Max Daily Amount: 6 Tablets</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Lyrica 150 mg Capsule<text:tab/>Past Week<text:tab/><text:tab/>No<text:tab/>Yes</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: TAKE 1 CAPSULE BY MOUTH AT BEDTIME</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Nebulizer Accessories Kit<text:tab/><text:tab/><text:tab/>Yes<text:tab/>No</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: Use as directed with nebulizer</text:p>
+   <text:p text:style-name="Preformatted_20_Text">albuterol sulfate 90 mcg/Actuation inhaler<text:tab/>Past Month<text:tab/><text:tab/>Yes<text:tab/>Yes</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: Take 2 Puffs by inhalation every 6 hours as needed.</text:p>
+   <text:p text:style-name="Preformatted_20_Text">alpelisib 300 mg/day (150 mg x 2) Tablet<text:tab/>Past Week<text:tab/><text:tab/>No<text:tab/>Yes</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: Take 300 mg by mouth daily.</text:p>
+   <text:p text:style-name="Preformatted_20_Text">alpelisib, PROS, 50 mg Tablet<text:tab/>Past Week<text:tab/><text:tab/>No<text:tab/>Yes</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: Take 1 Tablet by mouth daily for 7 days.</text:p>
+   <text:p text:style-name="Preformatted_20_Text">ascorbic acid, vitamin C, (VITAMIN C) 500 mg tablet<text:tab/>9/9/2023 at 0800<text:tab/><text:tab/>Yes<text:tab/>Yes</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: Take 500 mg by mouth daily.</text:p>
+   <text:p text:style-name="Preformatted_20_Text">atorvastatin (LIPITOR) 80 mg tablet<text:tab/>Unknown<text:tab/><text:tab/>No<text:tab/>No</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: TAKE 1 TABLET(80 MG) BY MOUTH DAILY WITH SUPPER</text:p>
+   <text:p text:style-name="Preformatted_20_Text">azelastine (ASTELIN) 137 mcg/actuation nasal spray<text:tab/>Unknown<text:tab/><text:tab/>No<text:tab/>No</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/>Sig: USE 2 SPRAYS IN EACH NOSTRIL TWICE DAILY</text:p>
+   <text:p text:style-name="Preformatted_20_Text">cannabidiol, CBD, product, for documentation purposes,<text:tab/>&gt; Month<text:tab/><text:tab/>Yes<text:tab/>No</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: Take by mouth 2 times daily.</text:p>
+   <text:p text:style-name="Preformatted_20_Text">cetirizine (ZyrTEC) 10 mg tablet<text:tab/>9/9/2023 at 0800<text:tab/><text:tab/>Yes<text:tab/>Yes</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: Take 10 mg by mouth daily.</text:p>
+   <text:p text:style-name="Preformatted_20_Text">cholecalciferol, vitamin D3, 1,000 unit<text:tab/>Unknown<text:tab/><text:tab/>Yes<text:tab/>No</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: Take 1,000 Units by mouth daily.</text:p>
+   <text:p text:style-name="Preformatted_20_Text">clonazePAM (KlonoPIN) 0.5 mg Tablet<text:tab/>Past Week<text:tab/><text:tab/>No<text:tab/>Yes</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: TAKE 1 TABLET BY MOUTH EVERY NIGHT AT BEDTIME FOR INSOMNIA</text:p>
+   <text:p text:style-name="Preformatted_20_Text">cyclobenzaprine (FLEXERIL) 10 mg tablet<text:tab/>Past Week<text:tab/><text:tab/>No<text:tab/>Yes</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: TAKE 1 TABLET BY MOUTH EVERY EVENING FOR SPASM</text:p>
+   <text:p text:style-name="Preformatted_20_Text">denosumab (XGEVA) 120 mg/1.7 mL (70 mg/mL) Solution<text:tab/>&gt; Month<text:tab/><text:tab/>Yes<text:tab/>No</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: Inject 120 mg by subcutaneous injection every 30 days.</text:p>
+   <text:p text:style-name="Preformatted_20_Text">dexAMETHasone (DECADRON) 0.5 mg/5 mL Solution<text:tab/>Unknown<text:tab/><text:tab/>No<text:tab/>No</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: Take 5 ml and swish and spit 4 times daily while on the Affinitor.</text:p>
+   <text:p text:style-name="Preformatted_20_Text">docusate sodium (COLACE) 50 mg capsule<text:tab/>Unknown<text:tab/><text:tab/>No<text:tab/>No</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: Take 1 Capsule (50 mg) by mouth 2 times daily.</text:p>
+   <text:p text:style-name="Preformatted_20_Text">hydrOXYzine HCL (ATARAX) 25 mg tablet<text:tab/>9/9/2023 at 0800<text:tab/><text:tab/>No<text:tab/>Yes</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: Take 1 Tablet (25 mg) by mouth daily.</text:p>
+   <text:p text:style-name="Preformatted_20_Text">levoFLOXacin (LEVAQUIN) 250 mg tablet<text:tab/>9/9/2023 at 0800<text:tab/><text:tab/>No<text:tab/>Yes</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: Take 1 Tablet (250 mg) by mouth daily.</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/>methenamine hippurate (HIPREX) 1 gram Tablet<text:tab/>9/9/2023 at 0800<text:tab/><text:tab/>No<text:tab/>Yes</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: TAKE 1 TABLET(1000 MG) BY MOUTH TWICE DAILY</text:p>
+   <text:p text:style-name="Preformatted_20_Text">methocarbamoL (ROBAXIN) 750 mg tablet<text:tab/>Past Week<text:tab/><text:tab/>No<text:tab/>Yes</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: TAKE 1 TABLET BY MOUTH THREE TIMES DAILY AS NEEDED FOR SPASM</text:p>
+   <text:p text:style-name="Preformatted_20_Text">methylPREDNISolone (MEDROL DOSPACK) 4 mg Tablets, Dose Pack<text:tab/>Unknown<text:tab/><text:tab/>No<text:tab/>No</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: As instructed.</text:p>
+   <text:p text:style-name="Preformatted_20_Text">mometasone (Asmanex Twisthaler) 220 mcg Aerosol Powdr Breath Activated<text:tab/>Unknown<text:tab/><text:tab/>Yes<text:tab/>No</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: Take 1 Puff by inhalation 2 times daily.</text:p>
+   <text:p text:style-name="Preformatted_20_Text">naloxone (NARCAN) 4 mg/spray Spray, Non-Aerosol<text:tab/>Unknown<text:tab/><text:tab/>No<text:tab/>No</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: EMERGENCY USE ONLY: Administer 1 spray (4 mg) in one nostril one time. May repeat in alternating nostrils every 2-3 min until responsive or EMS arrives.</text:p>
+   <text:p text:style-name="Preformatted_20_Text">nebulizer<text:tab/><text:tab/><text:tab/>Yes<text:tab/>No</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: Length of need <text:s/>99 months</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Nebulizer with compressor, Kit: Permanent Nebulizer Kit, 1 per 6 months, filters , areosol mask: Yes. Name of Medication duoneb</text:p>
+   <text:p text:style-name="Preformatted_20_Text">ondansetron (Zofran) 4 mg Tablet<text:tab/>Past Week<text:tab/><text:tab/>No<text:tab/>Yes</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: Take 1 Tablet (4 mg) by mouth every 6 hours as needed for Nausea/Emesis.</text:p>
+   <text:p text:style-name="Preformatted_20_Text">oxyBUTYnin (DITROPAN) 5 mg tablet<text:tab/>9/9/2023 at 0800<text:tab/><text:tab/>No<text:tab/>Yes</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: TAKE 1 TABLET(5 MG) BY MOUTH THREE TIMES DAILY AS NEEDED FOR BLADDER</text:p>
+   <text:p text:style-name="Preformatted_20_Text">pantoprazole (PROTONIX) 40 mg Tablet, Delayed Release (E.C.)<text:tab/>9/9/2023 at 0800<text:tab/><text:tab/>No<text:tab/>Yes</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: TAKE 1 TABLET BY MOUTH DAILY</text:p>
+   <text:p text:style-name="Preformatted_20_Text">phenazopyridine 200 mg tablet<text:tab/>Unknown<text:tab/><text:tab/>No<text:tab/>No</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: Take 1 Tablet (200 mg) by mouth 3 times daily as needed for Pain.</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/>predniSONE (DELTASONE) 10 mg tablet<text:tab/>9/9/2023 at 0800<text:tab/><text:tab/>No<text:tab/>Yes</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: Take 1 Tablet (10 mg) by mouth 3 times daily with meals.</text:p>
+   <text:p text:style-name="Preformatted_20_Text">promethazine (PHENERGAN) 25 mg tablet<text:tab/>&gt; Month<text:tab/><text:tab/>Yes<text:tab/>No</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: Take 25 mg by mouth every 6 hours as needed.</text:p>
+   <text:p text:style-name="Preformatted_20_Text">spironolactone (ALDACTONE) 100 mg tablet<text:tab/>9/9/2023 at 0800<text:tab/><text:tab/>No<text:tab/>Yes</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: TAKE 1 TABLET(100 MG) BY MOUTH TWICE DAILY</text:p>
+   <text:p text:style-name="Preformatted_20_Text">triamcinolone acetonide (KENALOG) 0.5 % Cream<text:tab/>Unknown<text:tab/><text:tab/>No<text:tab/>No</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Sig: Apply to affected areas of back twice daily for two weeks for flares.</text:p>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text">Facility-Administered Medications: None</text:p>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text">Current Facility-Administered Medications</text:p>
+   <text:p text:style-name="Preformatted_20_Text">Medication<text:tab/>Dose<text:tab/>Route<text:tab/>Frequency<text:tab/>Provider<text:tab/>Last Rate<text:tab/>Last Admin</text:p>
+   <text:p text:style-name="Preformatted_20_Text">ï¿½<text:tab/>potassium chloride (KLOR-CON) SR tablet 20 mEq<text:tab/> 20 mEq<text:tab/>Oral<text:tab/>BID WITH meals<text:tab/>Dailey, Zachariah, MD<text:tab/> <text:tab/>20 mEq at 09/12/23 1603</text:p>
+   <text:p text:style-name="Preformatted_20_Text">ï¿½<text:tab/>predniSONE (DELTASONE) tablet 65 mg<text:tab/> 65 mg<text:tab/>Oral<text:tab/>daily WITH breakfast<text:tab/>Balasundaram, Chitra, MD<text:tab/> <text:tab/>65 mg at 09/12/23 1603</text:p>
+   <text:p text:style-name="Preformatted_20_Text">ï¿½<text:tab/>famotidine (PEPCID) tablet 20 mg<text:tab/> 20 mg<text:tab/>Oral<text:tab/>BID<text:tab/>Balasundaram, Chitra, MD<text:tab/> <text:tab/> </text:p>
+   <text:p text:style-name="Preformatted_20_Text">ï¿½<text:tab/>loperamide (IMODIUM) capsule 2 mg<text:tab/> 2 mg<text:tab/>Oral<text:tab/>QID PRN<text:tab/>Dailey, Zachariah, MD<text:tab/> <text:tab/>2 mg at 09/12/23 1603</text:p>
+   <text:p text:style-name="Preformatted_20_Text">ï¿½<text:tab/>clonazePAM (KlonoPIN) tablet 0.5 mg<text:tab/> 0.5 mg<text:tab/>Oral<text:tab/>daily BEDTIME<text:tab/>Zguri, Liridon, MD<text:tab/> <text:tab/>0.5 mg at 09/11/23 2139</text:p>
+   <text:p text:style-name="Preformatted_20_Text">ï¿½<text:tab/>HYDROcodone-acetaminophen (NORCO) 5-325 mg per tablet 1 Tablet<text:tab/> 1 Tablet<text:tab/>Oral<text:tab/>every 4 hours PRN<text:tab/>Zguri, Liridon, MD<text:tab/> <text:tab/> </text:p>
+   <text:p text:style-name="Preformatted_20_Text">ï¿½<text:tab/>oxyBUTYnin (DITROPAN) tablet 5 mg<text:tab/> 5 mg<text:tab/>Oral<text:tab/>TID PRN<text:tab/>Zguri, Liridon, MD<text:tab/> <text:tab/>5 mg at 09/12/23 1136</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/>ï¿½<text:tab/>spironolactone (ALDACTONE) tablet 100 mg<text:tab/> 100 mg<text:tab/>Oral<text:tab/>BID<text:tab/>Zguri, Liridon, MD<text:tab/> <text:tab/>100 mg at 09/12/23 0815</text:p>
+   <text:p text:style-name="Preformatted_20_Text">ï¿½<text:tab/>methenamine hippurate (HIPREX) tablet 1,000 mg -- PATIENT MUST SUPPLY HOME MEDICATION<text:tab/> 1,000 mg<text:tab/>Oral<text:tab/>BID<text:tab/>Dailey, Zachariah, MD<text:tab/> <text:tab/>1,000 mg at 09/11/23 0900</text:p>
+   <text:p text:style-name="Preformatted_20_Text">ï¿½<text:tab/>pregabalin (LYRICA) capsule 150 mg<text:tab/> 150 mg<text:tab/>Oral<text:tab/>daily BEDTIME<text:tab/>Dailey, Zachariah, MD<text:tab/> <text:tab/>150 mg at 09/11/23 2138</text:p>
+   <text:p text:style-name="Preformatted_20_Text">ï¿½<text:tab/>methocarbamoL (ROBAXIN) tablet 750 mg<text:tab/> 750 mg<text:tab/>Oral<text:tab/>TID PRN<text:tab/>Dailey, Zachariah, MD<text:tab/> <text:tab/>750 mg at 09/12/23 0815</text:p>
+   <text:p text:style-name="Preformatted_20_Text">ï¿½<text:tab/>pentosan polysulfate sodium (ELMIRON) capsule 100 mg<text:tab/> 100 mg<text:tab/>Oral<text:tab/>TID BEFORE meals<text:tab/>Dailey, Zachariah, MD<text:tab/> <text:tab/>100 mg at 09/12/23 1603</text:p>
+   <text:p text:style-name="Preformatted_20_Text">ï¿½<text:tab/>[DISCONTINUED] hydrOXYzine HCL (ATARAX) tablet 25 mg<text:tab/> 25 mg<text:tab/>Oral<text:tab/>daily<text:tab/>Zguri, Liridon, MD<text:tab/> <text:tab/>25 mg at 09/12/23 0819</text:p>
+   <text:p text:style-name="Preformatted_20_Text">ï¿½<text:tab/>naloxone (NARCAN) 0.4 mg/mL injection 0.1 mg<text:tab/> 0.1 mg<text:tab/>IV<text:tab/>see admin instructions<text:tab/>Zguri, Liridon, MD<text:tab/> <text:tab/> </text:p>
+   <text:p text:style-name="Preformatted_20_Text">ï¿½<text:tab/>enoxaparin (LOVENOX) injection 40 mg<text:tab/> 40 mg<text:tab/>subCUT<text:tab/>every 24 hours<text:tab/>Zguri, Liridon, MD<text:tab/> <text:tab/>40 mg at 09/12/23 1328</text:p>
+   <text:p text:style-name="Preformatted_20_Text">ï¿½<text:tab/>[DISCONTINUED] diphenhydrAMINE (BENADRYL) injection 25 mg<text:tab/> 25 mg<text:tab/>IV<text:tab/>every 6 hours<text:tab/>Snider, Jessica Nicole, DO<text:tab/> <text:tab/>25 mg at 09/12/23 1204</text:p>
+   <text:p text:style-name="Preformatted_20_Text">ï¿½<text:tab/>[DISCONTINUED] methylPREDNISolone sodium succinate (SOLU-Medrol) 125 mg in sterile water 2 mL injection<text:tab/> 125 mg<text:tab/>IV<text:tab/>every 6 hours<text:tab/>Snider, Jessica Nicole, DO<text:tab/> <text:tab/>125 mg at 09/12/23 1204</text:p>
+   <text:p text:style-name="Preformatted_20_Text">ï¿½<text:tab/>[DISCONTINUED] famotidine PF (PEPCID) 20 mg/2 mL injection 20 mg<text:tab/> 20 mg<text:tab/>IV<text:tab/>every 12 hours (2 times daily)<text:tab/>Snider, Jessica Nicole, DO<text:tab/> <text:tab/>20 mg at 09/12/23 0851</text:p>
+   <text:p text:style-name="Preformatted_20_Text">ï¿½<text:tab/>[DISCONTINUED] VANCOMYCIN CONSULT TO PHARMACY<text:tab/> 1 Each<text:tab/>See Admin Instructions<text:tab/>see admin instructions<text:tab/>Snider, Jessica Nicole, DO<text:tab/> <text:tab/> </text:p>
+   <text:p text:style-name="Preformatted_20_Text">ï¿½<text:tab/>[DISCONTINUED] piperacillin-tazobactam (ZOSYN) 3.375 Gram in sodium chloride 0.9% 50 mL IVPB (MBP)<text:tab/> 3.375 Gram<text:tab/>IV<text:tab/>every 6 hours<text:tab/>Snider, Jessica Nicole, DO<text:tab/> <text:tab/>Stopped at 09/12/23 0636</text:p>
+   <text:p text:style-name="Preformatted_20_Text">ï¿½<text:tab/>[DISCONTINUED] vancomycin (VANCOCIN) 1,000 mg in sodium chloride 0.9% 250 mL IVPB<text:tab/> 1,000 mg<text:tab/>IV<text:tab/>every 12 hours<text:tab/>Snider, Jessica Nicole, DO<text:tab/> <text:tab/>Stopped at 09/12/23 0036</text:p>
+   <text:p text:style-name="Preformatted_20_Text">ï¿½<text:tab/>sodium chloride flush injection 5 mL<text:tab/> 5 mL<text:tab/>IV<text:tab/>every 12 hours (2 times daily)<text:tab/>Plate, Rachel, MD<text:tab/> <text:tab/>5 mL at 09/12/23 0836</text:p>
+   <text:p text:style-name="Preformatted_20_Text">ï¿½<text:tab/>sodium chloride flush injection 5 mL<text:tab/> 5 mL<text:tab/>IV<text:tab/>see admin instructions<text:tab/>Plate, Rachel, MD<text:tab/> <text:tab/> </text:p>
+   <text:p text:style-name="Preformatted_20_Text">ï¿½<text:tab/>sodium chloride 0.9 % 250 mL flush bag 25 mL<text:tab/> 25 mL<text:tab/>IV<text:tab/>see admin instructions<text:tab/>Plate, Rachel, MD<text:tab/> <text:tab/> </text:p>
+   <text:p text:style-name="Preformatted_20_Text">ï¿½<text:tab/>dextrose 5 % in water 250 mL flush bag 25 mL<text:tab/> 25 mL<text:tab/>IV<text:tab/>see admin instructions<text:tab/>Plate, Rachel, MD<text:tab/> <text:tab/> </text:p>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text">Pneumonia</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="8"/></text:p>
+   <text:p text:style-name="Preformatted_20_Text">myocarditis</text:p>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text">Hyperkalemia</text:p>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text"/>
+  </office:text>
+ </office:body>
+</office:document>

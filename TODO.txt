@@ -1,0 +1,232 @@
+CURRENT LIST 
+ed meds next
+1) thrombocytopenia hyperkalmeia detected doesnt get home meds but if its manually htere it gets it all unclear why.
+
+(A) isn't detect3ed as abnoral 
+
+for hypokalemia it doesnt tell us to check magnesiaum 
+
+checking missing also not working always still with hypokalmemia 
+2) other labs in the abrnmoal labs not detecing/showitng
+3) If NSTEMI dont need CAD
+
+
+6) remove nan after labs that dont have a unit
+7) sometimes the lab print this way AST of 28.0 U/L, ALT of 31.0 U/L and Lipase of 27.0 U/L.Lactate of 2.7 mmol/L, 
+
+
+initial show_abnormal_labs (trop, albumin, phosphorus, amylase) 
+
+other labs is special 
+
+hyperphosphatemia missed
+
+[completed] ed meds given
+
+"ordered": whatever's left
+
+XX unremarkable
+
+in one case INR remarkable but not getting it 
+
+
+may be particular to abnormal labs
+
+sitll saying chekc stuff we havent gotte
+
+-----------------------------------------------------------------------------------------------------------------
+meeting next friday (June 30) to work on an acute condition
+
+FOR TOMORROW 6/30
+CARDIOLOGY MODULE
+
+NSTEMI
+Unstable angina
+Acute heart failure
+Atrial fibrillation, atrial fibrillation with rvr
+Atrial flutter with rvr/supraventricular tachycardia
+Ventricular tachycardia/Ventricular fibrillation
+Syncope
+Bradycardia/AV block <---  same plan
+Acute pericarditis
+Infective endocarditis
+
+
+
+cardiac_profile = [troponin]
+heart_failure = [probnp - GFR, BMI, Age]
+kidney function = [GFR, CREAT] compare with previous
+electrolytes = [K, MG]
+inflammatory_markers = [ESR,CRP]
+
+ACUTE HEART FAILURE
+ASSESSMENT --> static can be obtained from all_conditions_ultimate
+if corrected_sodium low --> prognostic sign
+home_meds [same as chronic congestive heart failure] --> compliance ***
+contraindication and caution
+low sodium diet --> compliance
+last TSH, FeSat
+if albumin =< 3.5 --> contributing to volume overload
+associated_conditions = CAD, HTN, Aortic stenosis, mitral regurgitation, MS, HCM
+has the patient been diagnosed with OSA
+atrial fibrillation - well controlled or not - HR
+if cardiac cath has shown any coronary artery disease
+cardiac_profile
+electrolytes = if k>4 and Mg > 2, print - electrolytes WNL
+if the patient has ICD --> interrogate ICD
+
+PLAN
+static plan should be obtained from all_condition_ultimate
+if lasix --> switch to lasix IV
+if bumex or torsemide --> cont or switch to bumex
+if k <4 print - K level and give K, target ~ 4
+if Mg < 4 - MG level and give MG, target ~ 2
+Rx iron deficiency anemia = iimproves functional capacity and quality of life
+smoking cessation
+
+
+NSTEMI
+ASSESSMENT
+static assessment as in all_conditions
+home meds --> coronary artery disease
+contraindications/caution
+TIMI score --> needs to be calculated
+cardiac_profile
+if K and MG low --> under plan replace, target K ~ 4, MG ~ 2
+Associated conditions -->
+PLAN
+check missing labs should be fixed
+heparin --> need check if the patient is on blood thinners already [might need to do it wo bolus if on blood thinners]
+nitroglycerin --> need to make sure patient is not on PDE inhibitors [Erectile Dysfunction indications]
+if on statins --> need to make sure they are high-dose statins like atorvastatin or rosuvastatin --> need to be switched to high dose thats not the case
+check if the patient is bradycardic --> start metoprolol or if the patient is already on beta-blockers other than metoprolol, bisoprolol, carvedilol, switch to metoprolol
+if smoking in the history --> counsel about smoking
+
+
+
+
+
+
+-------------------------------------------------------------------------------------------------------
+
+
+
+Anemia
+Hgb of 9.3 g/dL [Last Hgb was 9.9 on 02/08/2023], Hct of 31.0 % and MCV of 90.9 fL.
+Vit. B12 of 468.0 pg/mL, Ferritin of 211.4 ng/mL, <--- same format as above but it should show date [ group old labs]
+Associated conditions: IDA
+No signs of bleeding
+Home meds: ferrous sulfate
+Caution: rivaroxaban
+Plan
+- Cont. ferrous sulfate
+- Cont/Hold*** rivaroxaban and warfarin
+Check [if nothing check - remove]
+- Monitor for now
+
+
+- in front of everything from plan
+FIX ASSOCIATED CONDITIONS
+
+
+Anemia
+Hgb of 9.3 g/dL [Last Hgb w
+
+
+looking up condition Anemia vs anemia shouldnt give different output
+
+
+Liridon Zguri6:53 PM
+Anemia
+Hgb of 9.3 g/dL [Last Hgb was 9.9 on 02/08/2023], Hct of 31.0 % and MCV of 90.9 fL.
+Vit. B12 of 468.0 pg/mL, Ferritin of 211.4 ng/mL, <--- same format as above but it should show date [ group old labs]
+Associated conditions: IDA
+No signs of bleeding
+Home meds: ferrous sulfate
+Caution: rivaroxaban
+Plan
+- Cont. ferrous sulfate
+- Cont/Hold*** rivaroxaban and warfarin
+Check [if nothing check - remove]
+- Monitor for now
+
+
+- in front of everything from plan
+
+
+
+Anemia
+Hgb of 9.3 g/dL [Last Hgb w
+Anemia
+Hgb of 9.3 g/dL [Last Hgb was 9.9 on 02/08/2023], Hct of 31.0 % and MCV of 90.9 fL.
+Vit. B12 of 468.0 pg/mL, Ferritin of 211.4 ng/mL [3/4/2020]
+Home meds: Ferrous sulfate
+Cautioned: Rivaroxaban
+Contraindicated: 
+Associated conditions: IDA
+No signs of bleeding
+Plan
+- Cont Ferrous sulfate
+- Monitor for now
+
+
+if contraindication --> Hold ferrous sulfate
+if caution --> Cont/Hold ** ferrous sulfate
+
+
+Coronary artery disease
+Home: clopidogrel
+Plan
+- Cont/Hold *** clopidogrel [anemia] <---
+- Hol
+
+remember medications json looks for dierect case sensitive matches with names other than the chronic disease 
+make only first comma for disease detected case insensitive for medications
+
+manually adding lines doesnt always detect the labs like when its autogenerated
+
+
+7/14/2023
+
+HYPERKALEMIA
+
+if K >= 6.5:
+- Insulin + dextrose if glucose > 250
+- Calcium gluconate
+- Lokelma
+- Nephrology consult
+ 
+ if ESRD --> nephrology consult for dialysis
+
+ if acute heart failure, anasarca, nephrotic syndrome, liver cirrhosis --> furosemide
+
+ if not in DKA, ESRD, and bicarb < 18 --> Start bicarbonate drip
+
+
+ DIABETIC ketoacidosis
+
+ASSESSMENT
+
+if Glucose > 600 or Blood osm > 320 --> possible overlap with HHS
+Acid-base disorder: pH, Bicarb, AG
+Electrolytes: Na, Mg, K, GFR [compare], CREAT
+Blood ketones, urine ketones
+Urinalysis: 
+h/o type 1 DM, chronic pancreatitis
+Precipitating factors: NSTEMI, UTI, Acute pyelonephritis, Acute pancreatitis
+
+Plan
+
+if pH < 6.9, start bicarb drip [might worsen hypokalemia]
+if K < 3.4 --> hold Insulin, K needs to be replaced first [K is level]
+If K >3.3 and less than < 5.3 --> IV fluids supplemented with K [20-30 mEq/L]
+if glucose < 250 --> start Dextrose supplementation [D5W] otherwise - When serum glucose is 200-250 add D5W to IV fluids
+
+
+
+
+----------------------------------
+
+11/21/2023
+
+Added renal transplant and neuropathy module --> needs to be conmpleted

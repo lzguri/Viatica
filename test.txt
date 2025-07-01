@@ -1,0 +1,532 @@
+is a 60 y.o. female
+
+Complete blood count
+
+Lab Results
+Component	Value	Date/Time
+    WBC	6.5	09/22/2023 04:20 AM
+    RBC	3.48 (L)	09/22/2023 04:20 AM
+    HGB	10.9 (L)	09/22/2023 04:20 AM
+    HGB	12.6	09/11/2023 02:42 AM
+    HCT	33.4 (L)	09/22/2023 04:20 AM
+    MCV	96.0	09/22/2023 04:20 AM
+    MCH	31.3	09/22/2023 04:20 AM
+    MCHC	32.6	09/22/2023 04:20 AM
+    PLT	148	09/22/2023 04:20 AM
+    PLT	154	09/11/2023 02:42 AM
+    RDW	12.7	09/22/2023 04:20 AM
+    NEUTROPHIL	5.48	09/22/2023 04:20 AM
+    LYMPHOCYTE	0.59 (L)	09/22/2023 04:20 AM
+    EOSINOPHIL	0.00	09/22/2023 04:20 AM
+
+
+Chemistry
+Lab Results
+Component	Value	Date/Time
+    NA	142	09/22/2023 04:20 AM
+    K	9 (L)	09/22/2023 04:20 AM
+    CL	108 (H)	09/22/2023 04:20 AM
+    CO2	24	09/22/2023 04:20 AM
+    CA	8.1 (L)	09/22/2023 04:20 AM
+    CA	8.7 (L)	09/11/2023 02:42 AM
+    BUN	14	09/22/2023 04:20 AM
+    CREAT	0.79	09/22/2023 04:20 AM
+    GFR	>60	09/22/2023 04:20 AM
+    GFR	>60	09/11/2023 02:42 AM
+    GLUCOSE	151 (H)	09/22/2023 04:20 AM
+    TOTALPROTEIN	5.3 (L)	09/22/2023 04:20 AM
+    ALBUMIN	3.3 (L)	09/22/2023 04:20 AM
+    BILITOTAL	0.3	09/22/2023 04:20 AM
+    LIPASE	142	04/12/2015 05:01 AM
+    ALKPHOS	27 (L)	09/22/2023 04:20 AM
+    ALKPHOS	37	09/11/2023 02:42 AM
+    AST	16	09/22/2023 04:20 AM
+    ALT	31	09/22/2023 04:20 AM
+    ANIONGAP	10	09/22/2023 04:20 AM
+    T4FREE	1.1	03/23/2023 11:14 AM
+    LACTATE	1.3	04/04/2020 11:52 AM
+
+
+Cardiac profile
+
+Lab Results
+Component	Value	Date/Time
+    INR	0.9	06/19/2023 07:16 AM
+    PT	12.6 (L)	06/19/2023 07:16 AM
+
+
+workup
+Lab Results
+Component	Value	Date/Time
+    IRON	116	02/24/2016 12:23 PM
+    FERRITIN	43.9	02/24/2016 12:23 PM
+    VITAMINB12	423	01/19/2017 10:07 AM
+    VITAMINB12	185 (L)	05/17/2016 12:58 PM
+
+
+Lab Results
+Component	Value	Date/Time
+    PHUA	6.0	09/11/2023 09:20 PM
+    SGUR	1.010	09/11/2023 09:20 PM
+    URINELEUKOC	Negative	09/11/2023 09:20 PM
+    NITRITEUA	Negative	09/11/2023 09:20 PM
+    KETONEURINE	Negative	09/11/2023 09:20 PM
+    PROTEINUA	Negative	09/11/2023 09:20 PM
+    GLUUA	Negative	09/11/2023 09:20 PM
+    BLOODUA	Negative	09/11/2023 09:20 PM
+    WBCU	0-5	09/08/2023 11:22 AM
+    RBCUA	0-2	09/08/2023 11:22 AM
+    BACTERIAUA	NONE SEEN	09/08/2023 11:22 AM
+    UREPITHELIAL	10-20 (A)	09/08/2023 11:22 AM
+
+
+Lab Results
+Component	Value	Date/Time
+    ESR	10	11/22/2022 10:13 PM
+    CRP	<3.0	11/22/2022 10:13 PM
+    CRP	<2.9	04/12/2015 05:01 AM
+
+
+No results found for: "PHBLOODPOC", "PCO2POC", "PO2POC", "PFRATIO", "O2SATPOC"
+
+Lab Results
+Component	Value	Date/Time
+    INFLUENZAA	Not Detected	09/10/2023 06:03 AM
+    INFLUENZAB	Not Detected	09/10/2023 06:03 AM
+    COVID19	Not Detected	09/10/2023 06:03 AM
+    RSVAG	Not Detected	09/10/2023 06:03 AM
+
+
+Lab Results
+Component	Value	Date/Time
+    HGBA1C	5.1	08/16/2023 08:33 AM
+    LDLCALC	153 (H)	05/11/2022 08:42 AM
+
+
+Lab Results
+Component	Value	Date/Time
+    TRIGLYCERIDE	151 (H)	05/11/2022 08:42 AM
+    TSH	0.86	03/23/2023 11:14 AM
+
+
+Toxicology
+No results found for: "ETHANOL", "ACETAMINOPHE", "SALICYLATE"
+
+Vitamins
+Lab Results
+Component	Value	Date/Time
+    VITAMINDTO	38	07/31/2018 12:38 PM
+
+
+Tumor markers
+No results found for: "AFPTM"
+
+Virology
+No results found for: "CD4", "HIV1RNACOPIE", "HEPAIGM", "HEPBCORIGM", "HEPBSAG", "HEPCAB" 
+
+
+GIPATHOGEN
+No results found for: "CLOSTRIDIU"
+
+
+
+
+Principal Problem:
+  Morbilliform rash
+Active Problems:
+  Gastroesophageal reflux disease without esophagitis
+  Cancer, metastatic to bone
+  Coronary artery disease involving native coronary artery of native heart without angina pectoris
+  Mixed hyperlipidemia
+  Drug reaction
+ 
+
+
+Vitals:
+    09/12/23 1547
+BP:	101/49
+Pulse:	
+Resp:	17
+Temp:	98.2 �F (36.8 �C)
+SpO2:	95%
+
+
+
+Prior to Admission Medications
+Prescriptions	Last Dose	Informant	Patient Reported?	Taking?
+CALCIUM CARBONATE-VITAMIN D3 ORAL	9/9/2023 at 0800		Yes	Yes
+Sig: Take by mouth daily.
+Elmiron 100 mg Capsule	9/9/2023 at 0800		No	Yes
+Sig: TAKE 1 CAPSULE(100 MG) BY MOUTH THREE TIMES DAILY
+HYDROcodone-acetaminophen (NORCO) 5-325 mg tablet	Unknown		No	No
+Sig: Take 1 Tablet by mouth every 4 hours as needed for Pain, Moderate. Max Daily Amount: 6 Tablets
+Lyrica 150 mg Capsule	Past Week		No	Yes
+Sig: TAKE 1 CAPSULE BY MOUTH AT BEDTIME
+Nebulizer Accessories Kit			Yes	No
+Sig: Use as directed with nebulizer
+albuterol sulfate 90 mcg/Actuation inhaler	Past Month		Yes	Yes
+Sig: Take 2 Puffs by inhalation every 6 hours as needed.
+alpelisib 300 mg/day (150 mg x 2) Tablet	Past Week		No	Yes
+Sig: Take 300 mg by mouth daily.
+alpelisib, PROS, 50 mg Tablet	Past Week		No	Yes
+Sig: Take 1 Tablet by mouth daily for 7 days.
+ascorbic acid, vitamin C, (VITAMIN C) 500 mg tablet	9/9/2023 at 0800		Yes	Yes
+Sig: Take 500 mg by mouth daily.
+atorvastatin (LIPITOR) 80 mg tablet	Unknown		No	No
+Sig: TAKE 1 TABLET(80 MG) BY MOUTH DAILY WITH SUPPER
+azelastine (ASTELIN) 137 mcg/actuation nasal spray	Unknown		No	No
+Sig: USE 2 SPRAYS IN EACH NOSTRIL TWICE DAILY
+cannabidiol, CBD, product, for documentation purposes,	> Month		Yes	No
+Sig: Take by mouth 2 times daily.
+cetirizine (ZyrTEC) 10 mg tablet	9/9/2023 at 0800		Yes	Yes
+Sig: Take 10 mg by mouth daily.
+cholecalciferol, vitamin D3, 1,000 unit	Unknown		Yes	No
+Sig: Take 1,000 Units by mouth daily.
+clonazePAM (KlonoPIN) 0.5 mg Tablet	Past Week		No	Yes
+Sig: TAKE 1 TABLET BY MOUTH EVERY NIGHT AT BEDTIME FOR INSOMNIA
+cyclobenzaprine (FLEXERIL) 10 mg tablet	Past Week		No	Yes
+Sig: TAKE 1 TABLET BY MOUTH EVERY EVENING FOR SPASM
+denosumab (XGEVA) 120 mg/1.7 mL (70 mg/mL) Solution	> Month		Yes	No
+Sig: Inject 120 mg by subcutaneous injection every 30 days.
+dexAMETHasone (DECADRON) 0.5 mg/5 mL Solution	Unknown		No	No
+Sig: Take 5 ml and swish and spit 4 times daily while on the Affinitor.
+docusate sodium (COLACE) 50 mg capsule	Unknown		No	No
+Sig: Take 1 Capsule (50 mg) by mouth 2 times daily.
+hydrOXYzine HCL (ATARAX) 25 mg tablet	9/9/2023 at 0800		No	Yes
+Sig: Take 1 Tablet (25 mg) by mouth daily.
+levoFLOXacin (LEVAQUIN) 250 mg tablet	9/9/2023 at 0800		No	Yes
+Sig: Take 1 Tablet (250 mg) by mouth daily.
+methenamine hippurate (HIPREX) 1 gram Tablet	9/9/2023 at 0800		No	Yes
+Sig: TAKE 1 TABLET(1000 MG) BY MOUTH TWICE DAILY
+methocarbamoL (ROBAXIN) 750 mg tablet	Past Week		No	Yes
+Sig: TAKE 1 TABLET BY MOUTH THREE TIMES DAILY AS NEEDED FOR SPASM
+methylPREDNISolone (MEDROL DOSPACK) 4 mg Tablets, Dose Pack	Unknown		No	No
+Sig: As instructed.
+mometasone (Asmanex Twisthaler) 220 mcg Aerosol Powdr Breath Activated	Unknown		Yes	No
+Sig: Take 1 Puff by inhalation 2 times daily.
+naloxone (NARCAN) 4 mg/spray Spray, Non-Aerosol	Unknown		No	No
+Sig: EMERGENCY USE ONLY: Administer 1 spray (4 mg) in one nostril one time. May repeat in alternating nostrils every 2-3 min until responsive or EMS arrives.
+nebulizer			Yes	No
+Sig: Length of need  99 months
+Nebulizer with compressor, Kit: Permanent Nebulizer Kit, 1 per 6 months, filters , areosol mask: Yes. Name of Medication duoneb
+ondansetron (Zofran) 4 mg Tablet	Past Week		No	Yes
+Sig: Take 1 Tablet (4 mg) by mouth every 6 hours as needed for Nausea/Emesis.
+oxyBUTYnin (DITROPAN) 5 mg tablet	9/9/2023 at 0800		No	Yes
+Sig: TAKE 1 TABLET(5 MG) BY MOUTH THREE TIMES DAILY AS NEEDED FOR BLADDER
+pantoprazole (PROTONIX) 40 mg Tablet, Delayed Release (E.C.)	9/9/2023 at 0800		No	Yes
+Sig: TAKE 1 TABLET BY MOUTH DAILY
+phenazopyridine 200 mg tablet	Unknown		No	No
+Sig: Take 1 Tablet (200 mg) by mouth 3 times daily as needed for Pain.
+predniSONE (DELTASONE) 10 mg tablet	9/9/2023 at 0800		No	Yes
+Sig: Take 1 Tablet (10 mg) by mouth 3 times daily with meals.
+promethazine (PHENERGAN) 25 mg tablet	> Month		Yes	No
+Sig: Take 25 mg by mouth every 6 hours as needed.
+spironolactone (ALDACTONE) 100 mg tablet	9/9/2023 at 0800		No	Yes
+Sig: TAKE 1 TABLET(100 MG) BY MOUTH TWICE DAILY
+triamcinolone acetonide (KENALOG) 0.5 % Cream	Unknown		No	No
+Sig: Apply to affected areas of back twice daily for two weeks for flares.
+
+Facility-Administered Medications: None
+
+
+Current Facility-Administered Medications
+Medication	Dose	Route	Frequency	Provider	Last Rate	Last Admin
+�	potassium chloride (KLOR-CON) SR tablet 20 mEq	 20 mEq	Oral	BID WITH meals	Dailey, Zachariah, MD	 	20 mEq at 09/12/23 1603
+�	predniSONE (DELTASONE) tablet 65 mg	 65 mg	Oral	daily WITH breakfast	Balasundaram, Chitra, MD	 	65 mg at 09/12/23 1603
+�	famotidine (PEPCID) tablet 20 mg	 20 mg	Oral	BID	Balasundaram, Chitra, MD	 	 
+�	loperamide (IMODIUM) capsule 2 mg	 2 mg	Oral	QID PRN	Dailey, Zachariah, MD	 	2 mg at 09/12/23 1603
+�	clonazePAM (KlonoPIN) tablet 0.5 mg	 0.5 mg	Oral	daily BEDTIME	Zguri, Liridon, MD	 	0.5 mg at 09/11/23 2139
+�	HYDROcodone-acetaminophen (NORCO) 5-325 mg per tablet 1 Tablet	 1 Tablet	Oral	every 4 hours PRN	Zguri, Liridon, MD	 	 
+�	oxyBUTYnin (DITROPAN) tablet 5 mg	 5 mg	Oral	TID PRN	Zguri, Liridon, MD	 	5 mg at 09/12/23 1136
+�	spironolactone (ALDACTONE) tablet 100 mg	 100 mg	Oral	BID	Zguri, Liridon, MD	 	100 mg at 09/12/23 0815
+�	methenamine hippurate (HIPREX) tablet 1,000 mg -- PATIENT MUST SUPPLY HOME MEDICATION	 1,000 mg	Oral	BID	Dailey, Zachariah, MD	 	1,000 mg at 09/11/23 0900
+�	pregabalin (LYRICA) capsule 150 mg	 150 mg	Oral	daily BEDTIME	Dailey, Zachariah, MD	 	150 mg at 09/11/23 2138
+�	methocarbamoL (ROBAXIN) tablet 750 mg	 750 mg	Oral	TID PRN	Dailey, Zachariah, MD	 	750 mg at 09/12/23 0815
+�	pentosan polysulfate sodium (ELMIRON) capsule 100 mg	 100 mg	Oral	TID BEFORE meals	Dailey, Zachariah, MD	 	100 mg at 09/12/23 1603
+�	[DISCONTINUED] hydrOXYzine HCL (ATARAX) tablet 25 mg	 25 mg	Oral	daily	Zguri, Liridon, MD	 	25 mg at 09/12/23 0819
+�	naloxone (NARCAN) 0.4 mg/mL injection 0.1 mg	 0.1 mg	IV	see admin instructions	Zguri, Liridon, MD	 	 
+�	enoxaparin (LOVENOX) injection 40 mg	 40 mg	subCUT	every 24 hours	Zguri, Liridon, MD	 	40 mg at 09/12/23 1328
+�	[DISCONTINUED] diphenhydrAMINE (BENADRYL) injection 25 mg	 25 mg	IV	every 6 hours	Snider, Jessica Nicole, DO	 	25 mg at 09/12/23 1204
+�	[DISCONTINUED] methylPREDNISolone sodium succinate (SOLU-Medrol) 125 mg in sterile water 2 mL injection	 125 mg	IV	every 6 hours	Snider, Jessica Nicole, DO	 	125 mg at 09/12/23 1204
+�	[DISCONTINUED] famotidine PF (PEPCID) 20 mg/2 mL injection 20 mg	 20 mg	IV	every 12 hours (2 times daily)	Snider, Jessica Nicole, DO	 	20 mg at 09/12/23 0851
+�	[DISCONTINUED] VANCOMYCIN CONSULT TO PHARMACY	 1 Each	See Admin Instructions	see admin instructions	Snider, Jessica Nicole, DO	 	 
+�	[DISCONTINUED] piperacillin-tazobactam (ZOSYN) 3.375 Gram in sodium chloride 0.9% 50 mL IVPB (MBP)	 3.375 Gram	IV	every 6 hours	Snider, Jessica Nicole, DO	 	Stopped at 09/12/23 0636
+�	[DISCONTINUED] vancomycin (VANCOCIN) 1,000 mg in sodium chloride 0.9% 250 mL IVPB	 1,000 mg	IV	every 12 hours	Snider, Jessica Nicole, DO	 	Stopped at 09/12/23 0036
+�	sodium chloride flush injection 5 mL	 5 mL	IV	every 12 hours (2 times daily)	Plate, Rachel, MD	 	5 mL at 09/12/23 0836
+�	sodium chloride flush injection 5 mL	 5 mL	IV	see admin instructions	Plate, Rachel, MD	 	 
+�	sodium chloride 0.9 % 250 mL flush bag 25 mL	 25 mL	IV	see admin instructions	Plate, Rachel, MD	 	 
+�	dextrose 5 % in water 250 mL flush bag 25 mL	 25 mL	IV	see admin instructions	Plate, Rachel, MD	 	 
+
+
+pneumonia
+unstable angina
+
+hyperkalemia  is a 60 y.o. female
+
+Complete blood count
+
+Lab Results
+Component	Value	Date/Time
+    WBC	6.5	09/22/2023 04:20 AM
+    RBC	3.48 (L)	09/22/2023 04:20 AM
+    HGB	10.9 (L)	09/22/2023 04:20 AM
+    HGB	12.6	09/11/2023 02:42 AM
+    HCT	33.4 (L)	09/22/2023 04:20 AM
+    MCV	96.0	09/22/2023 04:20 AM
+    MCH	31.3	09/22/2023 04:20 AM
+    MCHC	32.6	09/22/2023 04:20 AM
+    PLT	148	09/22/2023 04:20 AM
+    PLT	154	09/11/2023 02:42 AM
+    RDW	12.7	09/22/2023 04:20 AM
+    NEUTROPHIL	5.48	09/22/2023 04:20 AM
+    LYMPHOCYTE	0.59 (L)	09/22/2023 04:20 AM
+    EOSINOPHIL	0.00	09/22/2023 04:20 AM
+
+
+Chemistry
+Lab Results
+Component	Value	Date/Time
+    NA	142	09/22/2023 04:20 AM
+    K	9 (L)	09/22/2023 04:20 AM
+    CL	108 (H)	09/22/2023 04:20 AM
+    CO2	24	09/22/2023 04:20 AM
+    CA	8.1 (L)	09/22/2023 04:20 AM
+    CA	8.7 (L)	09/11/2023 02:42 AM
+    BUN	14	09/22/2023 04:20 AM
+    CREAT	0.79	09/22/2023 04:20 AM
+    GFR	>60	09/22/2023 04:20 AM
+    GFR	>60	09/11/2023 02:42 AM
+    GLUCOSE	151 (H)	09/22/2023 04:20 AM
+    TOTALPROTEIN	5.3 (L)	09/22/2023 04:20 AM
+    ALBUMIN	3.3 (L)	09/22/2023 04:20 AM
+    BILITOTAL	0.3	09/22/2023 04:20 AM
+    LIPASE	142	04/12/2015 05:01 AM
+    ALKPHOS	27 (L)	09/22/2023 04:20 AM
+    ALKPHOS	37	09/11/2023 02:42 AM
+    AST	16	09/22/2023 04:20 AM
+    ALT	31	09/22/2023 04:20 AM
+    ANIONGAP	10	09/22/2023 04:20 AM
+    T4FREE	1.1	03/23/2023 11:14 AM
+    LACTATE	1.3	04/04/2020 11:52 AM
+
+
+Cardiac profile
+
+Lab Results
+Component	Value	Date/Time
+    INR	0.9	06/19/2023 07:16 AM
+    PT	12.6 (L)	06/19/2023 07:16 AM
+
+
+workup
+Lab Results
+Component	Value	Date/Time
+    IRON	116	02/24/2016 12:23 PM
+    FERRITIN	43.9	02/24/2016 12:23 PM
+    VITAMINB12	423	01/19/2017 10:07 AM
+    VITAMINB12	185 (L)	05/17/2016 12:58 PM
+
+
+Lab Results
+Component	Value	Date/Time
+    PHUA	6.0	09/11/2023 09:20 PM
+    SGUR	1.010	09/11/2023 09:20 PM
+    URINELEUKOC	Negative	09/11/2023 09:20 PM
+    NITRITEUA	Negative	09/11/2023 09:20 PM
+    KETONEURINE	Negative	09/11/2023 09:20 PM
+    PROTEINUA	Negative	09/11/2023 09:20 PM
+    GLUUA	Negative	09/11/2023 09:20 PM
+    BLOODUA	Negative	09/11/2023 09:20 PM
+    WBCU	0-5	09/08/2023 11:22 AM
+    RBCUA	0-2	09/08/2023 11:22 AM
+    BACTERIAUA	NONE SEEN	09/08/2023 11:22 AM
+    UREPITHELIAL	10-20 (A)	09/08/2023 11:22 AM
+
+
+Lab Results
+Component	Value	Date/Time
+    ESR	10	11/22/2022 10:13 PM
+    CRP	<3.0	11/22/2022 10:13 PM
+    CRP	<2.9	04/12/2015 05:01 AM
+
+
+No results found for: "PHBLOODPOC", "PCO2POC", "PO2POC", "PFRATIO", "O2SATPOC"
+
+Lab Results
+Component	Value	Date/Time
+    INFLUENZAA	Not Detected	09/10/2023 06:03 AM
+    INFLUENZAB	Not Detected	09/10/2023 06:03 AM
+    COVID19	Not Detected	09/10/2023 06:03 AM
+    RSVAG	Not Detected	09/10/2023 06:03 AM
+
+
+Lab Results
+Component	Value	Date/Time
+    HGBA1C	5.1	08/16/2023 08:33 AM
+    LDLCALC	153 (H)	05/11/2022 08:42 AM
+
+
+Lab Results
+Component	Value	Date/Time
+    TRIGLYCERIDE	151 (H)	05/11/2022 08:42 AM
+    TSH	0.86	03/23/2023 11:14 AM
+
+
+Toxicology
+No results found for: "ETHANOL", "ACETAMINOPHE", "SALICYLATE"
+
+Vitamins
+Lab Results
+Component	Value	Date/Time
+    VITAMINDTO	38	07/31/2018 12:38 PM
+
+
+Tumor markers
+No results found for: "AFPTM"
+
+Virology
+No results found for: "CD4", "HIV1RNACOPIE", "HEPAIGM", "HEPBCORIGM", "HEPBSAG", "HEPCAB" 
+
+
+GIPATHOGEN
+No results found for: "CLOSTRIDIU"
+
+
+
+
+Principal Problem:
+  Morbilliform rash
+Active Problems:
+  Gastroesophageal reflux disease without esophagitis
+  Cancer, metastatic to bone
+  Coronary artery disease involving native coronary artery of native heart without angina pectoris
+  Mixed hyperlipidemia
+  Drug reaction
+ 
+
+
+Vitals:
+    09/12/23 1547
+BP:	101/49
+Pulse:	
+Resp:	17
+Temp:	98.2 �F (36.8 �C)
+SpO2:	95%
+
+
+
+Prior to Admission Medications
+Prescriptions	Last Dose	Informant	Patient Reported?	Taking?
+CALCIUM CARBONATE-VITAMIN D3 ORAL	9/9/2023 at 0800		Yes	Yes
+Sig: Take by mouth daily.
+Elmiron 100 mg Capsule	9/9/2023 at 0800		No	Yes
+Sig: TAKE 1 CAPSULE(100 MG) BY MOUTH THREE TIMES DAILY
+HYDROcodone-acetaminophen (NORCO) 5-325 mg tablet	Unknown		No	No
+Sig: Take 1 Tablet by mouth every 4 hours as needed for Pain, Moderate. Max Daily Amount: 6 Tablets
+Lyrica 150 mg Capsule	Past Week		No	Yes
+Sig: TAKE 1 CAPSULE BY MOUTH AT BEDTIME
+Nebulizer Accessories Kit			Yes	No
+Sig: Use as directed with nebulizer
+albuterol sulfate 90 mcg/Actuation inhaler	Past Month		Yes	Yes
+Sig: Take 2 Puffs by inhalation every 6 hours as needed.
+alpelisib 300 mg/day (150 mg x 2) Tablet	Past Week		No	Yes
+Sig: Take 300 mg by mouth daily.
+alpelisib, PROS, 50 mg Tablet	Past Week		No	Yes
+Sig: Take 1 Tablet by mouth daily for 7 days.
+ascorbic acid, vitamin C, (VITAMIN C) 500 mg tablet	9/9/2023 at 0800		Yes	Yes
+Sig: Take 500 mg by mouth daily.
+atorvastatin (LIPITOR) 80 mg tablet	Unknown		No	No
+Sig: TAKE 1 TABLET(80 MG) BY MOUTH DAILY WITH SUPPER
+azelastine (ASTELIN) 137 mcg/actuation nasal spray	Unknown		No	No
+Sig: USE 2 SPRAYS IN EACH NOSTRIL TWICE DAILY
+cannabidiol, CBD, product, for documentation purposes,	> Month		Yes	No
+Sig: Take by mouth 2 times daily.
+cetirizine (ZyrTEC) 10 mg tablet	9/9/2023 at 0800		Yes	Yes
+Sig: Take 10 mg by mouth daily.
+cholecalciferol, vitamin D3, 1,000 unit	Unknown		Yes	No
+Sig: Take 1,000 Units by mouth daily.
+clonazePAM (KlonoPIN) 0.5 mg Tablet	Past Week		No	Yes
+Sig: TAKE 1 TABLET BY MOUTH EVERY NIGHT AT BEDTIME FOR INSOMNIA
+cyclobenzaprine (FLEXERIL) 10 mg tablet	Past Week		No	Yes
+Sig: TAKE 1 TABLET BY MOUTH EVERY EVENING FOR SPASM
+denosumab (XGEVA) 120 mg/1.7 mL (70 mg/mL) Solution	> Month		Yes	No
+Sig: Inject 120 mg by subcutaneous injection every 30 days.
+dexAMETHasone (DECADRON) 0.5 mg/5 mL Solution	Unknown		No	No
+Sig: Take 5 ml and swish and spit 4 times daily while on the Affinitor.
+docusate sodium (COLACE) 50 mg capsule	Unknown		No	No
+Sig: Take 1 Capsule (50 mg) by mouth 2 times daily.
+hydrOXYzine HCL (ATARAX) 25 mg tablet	9/9/2023 at 0800		No	Yes
+Sig: Take 1 Tablet (25 mg) by mouth daily.
+levoFLOXacin (LEVAQUIN) 250 mg tablet	9/9/2023 at 0800		No	Yes
+Sig: Take 1 Tablet (250 mg) by mouth daily.
+methenamine hippurate (HIPREX) 1 gram Tablet	9/9/2023 at 0800		No	Yes
+Sig: TAKE 1 TABLET(1000 MG) BY MOUTH TWICE DAILY
+methocarbamoL (ROBAXIN) 750 mg tablet	Past Week		No	Yes
+Sig: TAKE 1 TABLET BY MOUTH THREE TIMES DAILY AS NEEDED FOR SPASM
+methylPREDNISolone (MEDROL DOSPACK) 4 mg Tablets, Dose Pack	Unknown		No	No
+Sig: As instructed.
+mometasone (Asmanex Twisthaler) 220 mcg Aerosol Powdr Breath Activated	Unknown		Yes	No
+Sig: Take 1 Puff by inhalation 2 times daily.
+naloxone (NARCAN) 4 mg/spray Spray, Non-Aerosol	Unknown		No	No
+Sig: EMERGENCY USE ONLY: Administer 1 spray (4 mg) in one nostril one time. May repeat in alternating nostrils every 2-3 min until responsive or EMS arrives.
+nebulizer			Yes	No
+Sig: Length of need  99 months
+Nebulizer with compressor, Kit: Permanent Nebulizer Kit, 1 per 6 months, filters , areosol mask: Yes. Name of Medication duoneb
+ondansetron (Zofran) 4 mg Tablet	Past Week		No	Yes
+Sig: Take 1 Tablet (4 mg) by mouth every 6 hours as needed for Nausea/Emesis.
+oxyBUTYnin (DITROPAN) 5 mg tablet	9/9/2023 at 0800		No	Yes
+Sig: TAKE 1 TABLET(5 MG) BY MOUTH THREE TIMES DAILY AS NEEDED FOR BLADDER
+pantoprazole (PROTONIX) 40 mg Tablet, Delayed Release (E.C.)	9/9/2023 at 0800		No	Yes
+Sig: TAKE 1 TABLET BY MOUTH DAILY
+phenazopyridine 200 mg tablet	Unknown		No	No
+Sig: Take 1 Tablet (200 mg) by mouth 3 times daily as needed for Pain.
+predniSONE (DELTASONE) 10 mg tablet	9/9/2023 at 0800		No	Yes
+Sig: Take 1 Tablet (10 mg) by mouth 3 times daily with meals.
+promethazine (PHENERGAN) 25 mg tablet	> Month		Yes	No
+Sig: Take 25 mg by mouth every 6 hours as needed.
+spironolactone (ALDACTONE) 100 mg tablet	9/9/2023 at 0800		No	Yes
+Sig: TAKE 1 TABLET(100 MG) BY MOUTH TWICE DAILY
+triamcinolone acetonide (KENALOG) 0.5 % Cream	Unknown		No	No
+Sig: Apply to affected areas of back twice daily for two weeks for flares.
+
+Facility-Administered Medications: None
+
+
+Current Facility-Administered Medications
+Medication	Dose	Route	Frequency	Provider	Last Rate	Last Admin
+�	potassium chloride (KLOR-CON) SR tablet 20 mEq	 20 mEq	Oral	BID WITH meals	Dailey, Zachariah, MD	 	20 mEq at 09/12/23 1603
+�	predniSONE (DELTASONE) tablet 65 mg	 65 mg	Oral	daily WITH breakfast	Balasundaram, Chitra, MD	 	65 mg at 09/12/23 1603
+�	famotidine (PEPCID) tablet 20 mg	 20 mg	Oral	BID	Balasundaram, Chitra, MD	 	 
+�	loperamide (IMODIUM) capsule 2 mg	 2 mg	Oral	QID PRN	Dailey, Zachariah, MD	 	2 mg at 09/12/23 1603
+�	clonazePAM (KlonoPIN) tablet 0.5 mg	 0.5 mg	Oral	daily BEDTIME	Zguri, Liridon, MD	 	0.5 mg at 09/11/23 2139
+�	HYDROcodone-acetaminophen (NORCO) 5-325 mg per tablet 1 Tablet	 1 Tablet	Oral	every 4 hours PRN	Zguri, Liridon, MD	 	 
+�	oxyBUTYnin (DITROPAN) tablet 5 mg	 5 mg	Oral	TID PRN	Zguri, Liridon, MD	 	5 mg at 09/12/23 1136
+�	spironolactone (ALDACTONE) tablet 100 mg	 100 mg	Oral	BID	Zguri, Liridon, MD	 	100 mg at 09/12/23 0815
+�	methenamine hippurate (HIPREX) tablet 1,000 mg -- PATIENT MUST SUPPLY HOME MEDICATION	 1,000 mg	Oral	BID	Dailey, Zachariah, MD	 	1,000 mg at 09/11/23 0900
+�	pregabalin (LYRICA) capsule 150 mg	 150 mg	Oral	daily BEDTIME	Dailey, Zachariah, MD	 	150 mg at 09/11/23 2138
+�	methocarbamoL (ROBAXIN) tablet 750 mg	 750 mg	Oral	TID PRN	Dailey, Zachariah, MD	 	750 mg at 09/12/23 0815
+�	pentosan polysulfate sodium (ELMIRON) capsule 100 mg	 100 mg	Oral	TID BEFORE meals	Dailey, Zachariah, MD	 	100 mg at 09/12/23 1603
+�	[DISCONTINUED] hydrOXYzine HCL (ATARAX) tablet 25 mg	 25 mg	Oral	daily	Zguri, Liridon, MD	 	25 mg at 09/12/23 0819
+�	naloxone (NARCAN) 0.4 mg/mL injection 0.1 mg	 0.1 mg	IV	see admin instructions	Zguri, Liridon, MD	 	 
+�	enoxaparin (LOVENOX) injection 40 mg	 40 mg	subCUT	every 24 hours	Zguri, Liridon, MD	 	40 mg at 09/12/23 1328
+�	[DISCONTINUED] diphenhydrAMINE (BENADRYL) injection 25 mg	 25 mg	IV	every 6 hours	Snider, Jessica Nicole, DO	 	25 mg at 09/12/23 1204
+�	[DISCONTINUED] methylPREDNISolone sodium succinate (SOLU-Medrol) 125 mg in sterile water 2 mL injection	 125 mg	IV	every 6 hours	Snider, Jessica Nicole, DO	 	125 mg at 09/12/23 1204
+�	[DISCONTINUED] famotidine PF (PEPCID) 20 mg/2 mL injection 20 mg	 20 mg	IV	every 12 hours (2 times daily)	Snider, Jessica Nicole, DO	 	20 mg at 09/12/23 0851
+�	[DISCONTINUED] VANCOMYCIN CONSULT TO PHARMACY	 1 Each	See Admin Instructions	see admin instructions	Snider, Jessica Nicole, DO	 	 
+�	[DISCONTINUED] piperacillin-tazobactam (ZOSYN) 3.375 Gram in sodium chloride 0.9% 50 mL IVPB (MBP)	 3.375 Gram	IV	every 6 hours	Snider, Jessica Nicole, DO	 	Stopped at 09/12/23 0636
+�	[DISCONTINUED] vancomycin (VANCOCIN) 1,000 mg in sodium chloride 0.9% 250 mL IVPB	 1,000 mg	IV	every 12 hours	Snider, Jessica Nicole, DO	 	Stopped at 09/12/23 0036
+�	sodium chloride flush injection 5 mL	 5 mL	IV	every 12 hours (2 times daily)	Plate, Rachel, MD	 	5 mL at 09/12/23 0836
+�	sodium chloride flush injection 5 mL	 5 mL	IV	see admin instructions	Plate, Rachel, MD	 	 
+�	sodium chloride 0.9 % 250 mL flush bag 25 mL	 25 mL	IV	see admin instructions	Plate, Rachel, MD	 	 
+�	dextrose 5 % in water 250 mL flush bag 25 mL	 25 mL	IV	see admin instructions	Plate, Rachel, MD	 	 
+
+
+Pneumonia
+
+        
+myocarditis
+
+
+Hyperkalemia
+
+

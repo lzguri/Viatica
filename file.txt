@@ -1,0 +1,146 @@
+is a 56 y.o. male
+
+
+Lab Results
+Component	Value	Date/Time
+	WBC	8.3	12/15/2022 07:50 AM
+	BASETROP	34	12/20/2022 07:50 AM
+	2HRTROP	34	12/20/2022 07:50 AM
+	HGB	13.3 (L)	12/16/2022 07:50 AM
+	HGB	14.4	10/16/2022 06:46 AM
+	HCT	43.2	12/16/2022 07:50 AM
+	PLT	265	12/16/2022 07:50 AM
+	MCV	80.6	12/16/2022 07:50 AM
+	NA	139	12/16/2022 07:49 AM
+	COVID19	Not Detected	12/15/2022 05:01 PM
+	INFLUENZAA	Not Detected	11/28/2022 05:01 PM
+	INFLUENZAB	Not Detected	11/28/2022 05:01 PM
+	RSVAG	Not Detected	11/28/2022 05:01 PM
+	CREAT	2.04	12/15/2022 07:49 AM
+	K	2.04	12/20/2022 07:49 AM
+	TSH	2.04	12/20/2022 07:49 AM
+	MG	2.04	12/17/2022 07:49 AM
+	CREAT	1.07	10/16/2022 06:46 AM
+	GLUCOSE	161 (H)	04/06/2023 07:49 AM
+	TOTALPROTEIN	7.7	10/17/2022 07:49 AM
+	ALBUMIN	3.7	12/16/2022 07:49 AM
+	BILITOTAL	0.4	10/17/2022 07:49 AM
+	ALKPHOS	86	12/17/2022 07:49 AM
+	AST	17	12/17/2022 07:49 AM
+	ALT	11	12/17/2022 07:49 AM
+	ANIONGAP	12	10/17/2022 07:49 AM
+	GFR	>60	12/17/2022 07:49 AM
+	2HRTROP	21 	10/16/2022 02:22 AM
+	HGBA1C	4.7 	10/16/2022 02:22 AM
+	
+	PROBNPNTERMI	1200	10/13/2015
+
+Lab Results
+Component	Value	Date/Time
+	PHUA	7.0	10/16/2022 02:22 AM
+	SGUR	1.011	10/16/2022 02:22 AM
+	URINELEUKOC	Negative	10/16/2022 02:22 AM
+	NITRITEUA	Negative	10/16/2022 02:22 AM
+	KETONEURINE	Negative	12/14/2022 02:22 AM
+	PROTEINUA	2+	10/16/2022 02:22 AM
+	GLUUA	3+ (A)	12/15/2022 02:22 AM
+	BLOODUA	Negative	12/15/2022 02:22 AM
+	WBCU	0-2	10/16/2022 02:22 AM
+	RBCUA	0-2	10/16/2022 02:22 AM
+	BACTERIAUA	Negative	10/16/2022 02:22 AM
+	UREPITHELIAL	0-5	05/13/2018 08:28 AM
+
+
+
+Vitals:
+	11/01/22 2340
+BP:	97/70
+Pulse:	91
+Resp:	16
+Temp:	97.4 °F (36.3 °C)
+SpO2:	97%
+
+
+
+
+
+
+
+
+
+
+
+Past Medical History:
+Diagnosis	Date
+•	Acute MI	2007
+•	Blurred vision	
+•	Diabetes	
+•	Hyperlipidemia	
+•	Unspecified essential hypertension	
+
+
+Prior to Admission Medications
+Prescriptions	Last Dose	Informant	Patient Reported?	Taking?
+BD Ultra-Fine Mini Pen Needle 31 gauge x 3/16" Needle			No	No
+Sig: USE TO INJECT INSULIN NIGHTLY
+Blood-Glucose Meter Kit			No	No
+Sig: Use to test blood sugar once daily Dx:E11.9.
+NIFEdipine (ADALAT CC) 60 mg Extended Release tablet			No	No
+Sig: TAKE 1 TABLET BY MOUTH EVERY 12 HOURS
+alcohol Pads, Medicated			No	No
+Sig: Use when taking blood glucose
+aspirin (ECOTRIN EC) 81 mg Tablet, Delayed Release (E.C.)			No	No
+Sig: Take 1 Tablet (81 mg) by mouth daily For heart attack prevention..
+ (LIPITOR) 20 mg tablet			No	No
+Sig: TAKE 1 TABLET (20 MG) BY MOUTH LATE IN THE DAY.
+blood sugar diagnostic (OneTouch Ultra Blue Test Strip) Strip			No	No
+Sig: Use to check blood sugars daily.
+blood sugar diagnostic Strip			No	No
+Sig: Use to check BG daily ACCU CHECK
+cloNIDine HCL (CATAPRES) 0.2 mg tablet			No	No
+Sig: TAKE 1 TABLET (0.2 MG) BY MOUTH 3 TIMES DAILY.
+cyanocobalamin 1,000 mcg Tablet			Yes	No
+Sig: Take 1,000 mcg by mouth daily.
+diabetic shoes with inserts			No	No
+Sig: DETAILED ORDER AND STATEMENT OF CERTIFYING PHYSICIAN FOR DIABETIC SHOESLON: 99 months. I certify that the patient has diabetes mellitus and peripheral neuropathy with evidence of callus. Patient is being treated under comprehensive plan for diabetes and needs shoes and inserts because of the condition. Dispense 1 pr/year shoe and 3 pr/year inserts A5500 AND A5513.2730 E Sunshine StSpringfield, MO 65804-204790656286801.
+empagliflozin (JARDIANCE) 25 mg tablet			No	No
+Sig: Take 1 Tablet (25 mg) by mouth daily in the morning.
+gabapentin (NEURONTIN) 300 mg capsule			No	No
+Sig: TAKE 1 CAPSULE BY MOUTH THREE TIMES A DAY
+glucose 4 gram Tablet, Chewable			No	No
+Sig: Take prn for sugar level..
+insulin aspart U-100 (NovoLOG Flexpen U-100 Insulin) 100 unit/mL pen syringe			No	No
+Sig: INJECT 15 UNITS SUBCUTANEOUSLY BEFORE EACH MEAL AND 8 UNITS BEFORE EACH SNACK.  Max dose 35 units daily
+insulin glargine (Lantus Solostar U-100 Insulin) 100 unit/mL pen syringe			No	No
+Sig: INJECT 76 UNITS BY SUBCUTANEOUS INJECTION DAILY AT BEDTIME.
+lancets			No	No
+Sig: Use to check BG daily
+metFORMIN (GLUCOPHAGE) 1,000 mg tablet			No	No
+Sig: TAKE 1 TABLET BY MOUTH TWICE A DAY WITH MEALS
+metoprolol succinate (TOPROL XL) 50 mg Extended Release 24 hour tablet			No	No
+Sig: TAKE 1 TABLET BY MOUTH TWICE A DAY
+multivitamin (DAILY-VITE) tablet			Yes	No
+Sig: Take 1 Tablet by mouth daily.
+omeprazole (PriLOSEC) 40 mg Capsule, Delayed Release(E.C.)			No	No
+Sig: TAKE 1 CAPSULE BY MOUTH EVERY DAY
+sildenafiL, pulm.hypertension, (REVATIO) 20 mg Tablet			No	No
+Sig: 40 mg once daily 1 hour before sexual activity as needed; dosing range: 20 to 60 mg once daily; maximum recommended dose: 60 mg once daily
+tadalafiL (Cialis) 20 mg tablet			No	No
+Sig: Take 1 Tablet (20 mg) by mouth 1 time daily as needed for Erectile Dysfunction.
+
+Facility-Administered Medications: None
+
+NSTEMI
+losartan
+bradycardia
+hyperkalemia
+acute kidney injury
+hypotension
+hyperthyroidism
+methimazole
+hepatitis
+atrial fibrillation with rvr
+clopidogrel
+acute heart failure
+furosemide
+prednisone
